@@ -1,8 +1,27 @@
+// function wrapping(gifts) {
+//     const wrapped = [];
+//     for (let i = 0; i < gifts.length; i++) {
+//         let gift = gifts[i];
+//         let wrap = '*'.repeat(gift.length + 2);
+//         wrapped.push(`${ wrap }\n*${ gift }*\n${ wrap }`);
+//     }
+//     return wrapped;
+// }
+
+// function wrapping(gifts) {
+//     return [...gifts.map(gift => {
+//         let wrap = '*'.repeat(gift.length + 2);
+//         // let giftWrapped = `${ wrap }\n*${ gift }*\n${ wrap }`;
+//         let giftWrapped = [wrap, `*${ gift }*`, wrap].join('\n');
+//         return giftWrapped;
+//     })];
+// }
+
 function wrapping(gifts) {
     return [...gifts.map(gift => {
         let wrap = '*'.repeat(gift.length + 2);
-        let giftWrapper = `${ wrap }\n*${ gift }*\n${ wrap }`;
-        return giftWrapper;
+        let giftWrapped = [wrap, `*${gift}*`, wrap].join('\n');
+        return giftWrapped;
     })];
 }
 
