@@ -21,8 +21,38 @@
 // }
 
 // // 164
-function distributeGifts(packOfGifts, reindeers) {
-    return Math.floor((reindeers.join('').length * 2)/(packOfGifts.join('').length));
+// function distributeGifts(packOfGifts, reindeers) {
+//     return Math.floor((reindeers.join('').length * 2)/(packOfGifts.join('').length));
+// }
+
+// // 198
+// distributeGifts = (packOfGifts, reindeers) => {
+//     let maxLength = (packOfGifts.length > reindeers.length) 
+//                         ? packOfGifts.length 
+//                         : reindeers.length;
+//     let giftWeight = 0;
+//     let reindeersCapacity = 0;
+  
+//     for (let i = 0; i < maxLength; i++) {
+//       if (packOfGifts[i]) giftWeight += packOfGifts[i].length;
+//       if (reindeers[i]) reindeersCapacity += reindeers[i].length * 2;
+//     }
+//     return Math.floor(reindeersCapacity / giftWeight);
+// };
+
+// 198
+distributeGifts = (packOfGifts, reindeers) => {
+    let weightOfGifts = 0;
+    let reindeersCapacity = 0;
+
+    packOfGifts.map(gift => {
+        weightOfGifts += gift.length;
+    });
+    reindeers.map(reindeer => {
+        reindeersCapacity += reindeer.length * 2;
+    });
+
+    return Math.floor(reindeersCapacity/weightOfGifts);
 }
 
 const packOfGifts = ["book", "doll", "ball"];

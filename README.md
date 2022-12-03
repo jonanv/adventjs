@@ -42,7 +42,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | ------------------------------------------------------------------------------------ | -------------------------------- | ----- |
 | [✔] [Reto #1][challenge01-readme]: ¡Automatizando envolver regalos de navidad!       | [Solution][challenge01-solution] | 132   |
 | [✔] [Reto #2][challenge02-readme]: Nadie quiere hacer horas extra                    | [Solution][challenge02-solution] | 131   |
-| [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | 164   |
+| [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | 198   |
 
 
 
