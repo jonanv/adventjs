@@ -11,8 +11,7 @@
 // function wrapping(gifts) {
 //     return [...gifts.map(gift => {
 //         let wrap = '*'.repeat(gift.length + 2);
-//         // let giftWrapped = `${ wrap }\n*${ gift }*\n${ wrap }`;
-//         let giftWrapped = [wrap, `*${ gift }*`, wrap].join('\n');
+//         let giftWrapped = `${ wrap }\n*${ gift }*\n${ wrap }`;
 //         return giftWrapped;
 //     })];
 // }
