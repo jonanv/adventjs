@@ -17,4 +17,5 @@
 | Challenge | Link                                  | Score     |
 | --------- | ------------------------------------- | --------- |
 | 01        | [Solution](./challenge01/index.js)    | 132       |
-| 02        |                                       |           |
+| 02        | [Solution](./challenge02/index.js)    | 131       |
+| 03        | [Solution](./challenge03/index.js)    |           |
