@@ -47,7 +47,6 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 
 
-
 [challenge01-readme]: ./challenge01/README.md
 [challenge01-solution]: ./challenge01/index.js
 [challenge02-readme]: ./challenge02/README.md
