@@ -14,10 +14,15 @@
 // }
 
 // // 135
+// function distributeGifts(packOfGifts, reindeers) {
+//     let weightOfGifts = packOfGifts.join('').length;
+//     let reindeerCapacity = reindeers.join('').length * 2;
+//     return Math.floor(reindeerCapacity/weightOfGifts);
+// }
+
+// // 164
 function distributeGifts(packOfGifts, reindeers) {
-    let weightOfGifts = packOfGifts.join('').length;
-    let reindeerCapacity = reindeers.join('').length * 2;
-    return Math.floor(reindeerCapacity/weightOfGifts);
+    return Math.floor((reindeers.join('').length * 2)/(packOfGifts.join('').length));
 }
 
 const packOfGifts = ["book", "doll", "ball"]

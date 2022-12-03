@@ -38,8 +38,19 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 ## **Retos realizados**
 
-| Challenge                                                      | Link                              | Score |
-| -------------------------------------------------------------- | --------------------------------- | ----- |
-| [✔] Reto #1: ¡Automatizando envolver regalos de navidad!       | [Solution](./challenge01/index.js) | 132  |
-| [✔] Reto #2: Nadie quiere hacer horas extra                    | [Solution](./challenge02/index.js) | 131  |
-| [✔] Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution](./challenge03/index.js) | 135  |
+| Challenge                                                                            | Link                             | Score |
+| ------------------------------------------------------------------------------------ | -------------------------------- | ----- |
+| [✔] [Reto #1][challenge01-readme]: ¡Automatizando envolver regalos de navidad!       | [Solution][challenge01-solution] | 132   |
+| [✔] [Reto #2][challenge02-readme]: Nadie quiere hacer horas extra                    | [Solution][challenge02-solution] | 131   |
+| [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | 164   |
+
+
+
+
+
+[challenge01-readme]: ./challenge01/README.md
+[challenge01-solution]: ./challenge01/index.js
+[challenge02-readme]: ./challenge02/README.md
+[challenge02-solution]: ./challenge02/index.js
+[challenge03-readme]: ./challenge03/README.md
+[challenge03-solution]: ./challenge03/index.js
