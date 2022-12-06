@@ -1,7 +1,7 @@
-# Instrucciones
+# **Instrucciones**
 
-## Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel?
-#### Fácil
+## **Reto #3: ¿Cuántas cajas de regalos puede llevar Papá Noel?**
+#### **Fácil**
 
 ---
 

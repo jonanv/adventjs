@@ -1,6 +1,7 @@
-# Instrucciones
-## Reto #1: ¡Automatizando envolver regalos de navidad!
-#### Fácil
+# **Instrucciones**
+
+## **Reto #1: ¡Automatizando envolver regalos de navidad!**
+#### **Fácil**
 
 ---
 

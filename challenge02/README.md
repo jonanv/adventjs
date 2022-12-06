@@ -1,7 +1,7 @@
-# Instrucciones
+# **Instrucciones**
 
-## Reto #2: Nadie quiere hacer horas extra 
-#### Fácil
+## **Reto #2: Nadie quiere hacer horas extra** 
+#### **Fácil**
 
 ---
 

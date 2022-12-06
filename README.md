@@ -1,4 +1,4 @@
-# AdventJS 🎅🎄
+# **AdventJS** 🎅🎄
 ## **24 días 24 retos de programación**
 
 # [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![#adventjs hashtag](https://img.shields.io/badge/-%23adventJS-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/search?q=%23adventjs&src=recent_search_click&f=live)
@@ -43,6 +43,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [Reto #1][challenge01-readme]: ¡Automatizando envolver regalos de navidad!       | [Solution][challenge01-solution] | 132   |
 | [✔] [Reto #2][challenge02-readme]: Nadie quiere hacer horas extra                    | [Solution][challenge02-solution] | 131   |
 | [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | 198   |
+| [✔] [Reto #4][challenge04-readme]: Reto #4: Una caja dentro de otra caja y otra...   | [Solution][challenge04-solution] | 170   |
 
 
 
@@ -53,3 +54,5 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [challenge02-solution]: ./challenge02/index.js
 [challenge03-readme]: ./challenge03/README.md
 [challenge03-solution]: ./challenge03/index.js
+[challenge04-readme]: ./challenge04/README.md
+[challenge04-solution]: ./challenge04/index.js
