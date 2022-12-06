@@ -24,6 +24,8 @@ function wrapping(gifts) {
     })];
 }
 
+module.exports = wrapping;
+
 const gifts = ['book', 'game', 'socks'];
 const wrapper = wrapping(gifts);
 console.log(wrapper);

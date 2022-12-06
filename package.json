@@ -1,0 +1,28 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "AdventJS 2022 by jonanv",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:1": "jest -i challenge01/challenge01.test.js",
+    "test:2": "jest -i challenge02/challenge02.test.js",
+    "test:3": "jest -i challenge03/challenge03.test.js",
+    "test:4": "jest -i challenge04/challenge04.test.js",
+    "test:5": "jest -i challenge05/challenge05.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonanv/adventjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonanv/adventjs/issues"
+  },
+  "homepage": "https://github.com/jonanv/adventjs#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}

@@ -55,6 +55,8 @@ distributeGifts = (packOfGifts, reindeers) => {
     return Math.floor(reindeersCapacity/weightOfGifts);
 }
 
+module.exports = distributeGifts;
+
 const packOfGifts = ["book", "doll", "ball"];
 const reindeers = ["dasher", "dancer"];
 

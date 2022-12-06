@@ -75,13 +75,11 @@ function getMaxGifts(giftsCities, maxGifts, maxCities) {
   return (numberOfGifts > maxGifts) ? maxGifts : numberOfGifts;
 }
 
-const giftsCities = [50, 10, 40, 1000, 500, 200];
-const maxGifts = 199;
-const maxCities = 4;
+module.exports = getMaxGifts;
 
-// const giftsCities = [12, 3, 11, 5, 7];
-// const maxGifts = 20;
-// const maxCities = 3;
+const giftsCities = [12, 3, 11, 5, 7];
+const maxGifts = 20;
+const maxCities = 3;
 
 // la suma más alta de regalos a repartir
 // visitando un máximo de 3 ciudades

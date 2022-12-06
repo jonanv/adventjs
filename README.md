@@ -38,14 +38,13 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 ## **Retos realizados**
 
-| Challenge                                                                            | Link                             | Score |
-| ------------------------------------------------------------------------------------ | -------------------------------- | ----- |
-| [✔] [Reto #1][challenge01-readme]: ¡Automatizando envolver regalos de navidad!       | [Solution][challenge01-solution] | 132   |
-| [✔] [Reto #2][challenge02-readme]: Nadie quiere hacer horas extra                    | [Solution][challenge02-solution] | 131   |
-| [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | 198   |
-| [✔] [Reto #4][challenge04-readme]: Reto #4: Una caja dentro de otra caja y otra...   | [Solution][challenge04-solution] | 170   |
-| [✔] [Reto #5][challenge05-readme]: Reto #5: Optimizando viajes de Santa              | [Solution][challenge05-solution] | 167   |
-
+| Challenge                                                                            | Link                             | Level  | Score |
+| ------------------------------------------------------------------------------------ | -------------------------------- | ------ | ----- |
+| [✔] [Reto #1][challenge01-readme]: ¡Automatizando envolver regalos de navidad!       | [Solution][challenge01-solution] | Easy   | 132   |
+| [✔] [Reto #2][challenge02-readme]: Nadie quiere hacer horas extra                    | [Solution][challenge02-solution] | Easy   | 131   |
+| [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | Easy   | 198   |
+| [✔] [Reto #4][challenge04-readme]: Reto #4: Una caja dentro de otra caja y otra...   | [Solution][challenge04-solution] | Medium | 170   |
+| [✔] [Reto #5][challenge05-readme]: Reto #5: Optimizando viajes de Santa              | [Solution][challenge05-solution] | Medium | 167   |
 
 
 
@@ -59,3 +58,28 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [challenge04-solution]: ./challenge04/index.js
 [challenge05-readme]: ./challenge05/README.md
 [challenge05-solution]: ./challenge05/index.js
+
+---
+
+## ***Instalación***
+
+Instala Jest para las pruebas con:
+
+```bash
+npm install
+```
+
+## Tests
+
+Puedes comprobar los retos usando en tu terminal el comando `npm run jest`.
+Si quieres probar tus propios scripts, tienes dos opciones:
+
+1. Cambiar de nombre el archivo `index.js` y crear tu propio `index.js`
+2. Comentar la función en el archivo `index.js` y crear tu propia función
+
+```bash
+npm run test # Para correr todos los test de todos los retos
+
+npm run test:n # n siendo el numero del reto, por ejemplo
+npm run test:1 # Correra el test del reto 1
+```
