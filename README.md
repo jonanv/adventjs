@@ -41,30 +41,30 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 <details open>
 <summary>Show / Hide</summary>
 
-| Challenge                                                                            | Link                             | Level  | Score |
-| :----------------------------------------------------------------------------------: | :------------------------------: | :----: | :---: |
-| [✔] [Reto #1][challenge01-readme]: ¡Automatizando envolver regalos de navidad!       | [Solution][challenge01-solution] | Easy   | 132   |
-| [✔] [Reto #2][challenge02-readme]: Nadie quiere hacer horas extra                    | [Solution][challenge02-solution] | Easy   | 131   |
-| [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | Easy   | 198   |
-| [✔] [Reto #4][challenge04-readme]: Reto #4: Una caja dentro de otra caja y otra...   | [Solution][challenge04-solution] | Medium | 188   |
-| [✔] [Reto #5][challenge05-readme]: Reto #5: Optimizando viajes de Santa              | [Solution][challenge05-solution] | Hard   | 220   |
-| [✔] [Reto #6][challenge06-readme]: Reto #6: Reto #6: Creando adornos navideños       | [Solution][challenge06-solution] | Medium | 160   |
+| #                    | Challenge                                         | Link                             | Difficulty[^1] | Score |
+| :------------------: | :------------------------------------------------ | :------------------------------: | :------------: | :---: |
+| [✔] [#1][c01-readme] | ¡Automatizando envolver regalos de navidad!       | [Solution][c01-solution]         |  🟢             | 132   |
+| [✔] [#2][c02-readme] | Nadie quiere hacer horas extra                    | [Solution][c02-solution]         |  🟢             | 131   |
+| [✔] [#3][c03-readme] | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][c03-solution]         |  🟢             | 198   |
+| [✔] [#4][c04-readme] | Una caja dentro de otra caja y otra...            | [Solution][c04-solution]         |  🟠             | 188   |
+| [✔] [#5][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴             | 220   |
+| [✔] [#6][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠             | 160   |
 
 
-[^1]: **Difficulty**:  Easy 🟠 Medium 🔴 Difficult 🟣 Very difficult
+[^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
-[challenge01-readme]: ./challenge01/README.md
-[challenge01-solution]: ./challenge01/index.js
-[challenge02-readme]: ./challenge02/README.md
-[challenge02-solution]: ./challenge02/index.js
-[challenge03-readme]: ./challenge03/README.md
-[challenge03-solution]: ./challenge03/index.js
-[challenge04-readme]: ./challenge04/README.md
-[challenge04-solution]: ./challenge04/index.js
-[challenge05-readme]: ./challenge05/README.md
-[challenge05-solution]: ./challenge05/index.js
-[challenge06-readme]: ./challenge06/README.md
-[challenge06-solution]: ./challenge06/index.js
+[c01-readme]: ./challenge01/README.md
+[c01-solution]: ./challenge01/index.js
+[c02-readme]: ./challenge02/README.md
+[c02-solution]: ./challenge02/index.js
+[c03-readme]: ./challenge03/README.md
+[c03-solution]: ./challenge03/index.js
+[c04-readme]: ./challenge04/README.md
+[c04-solution]: ./challenge04/index.js
+[c05-readme]: ./challenge05/README.md
+[c05-solution]: ./challenge05/index.js
+[c06-readme]: ./challenge06/README.md
+[c06-solution]: ./challenge06/index.js
 
 ---
 
