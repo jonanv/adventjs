@@ -43,12 +43,12 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 | #                    | Challenge                                         | Link                             | Difficulty[^1] | Score |
 | :------------------: | :------------------------------------------------ | :------------------------------: | :------------: | :---: |
-| [✔] [#1][c01-readme] | ¡Automatizando envolver regalos de navidad!       | [Solution][c01-solution]         |  🟢             | 132   |
-| [✔] [#2][c02-readme] | Nadie quiere hacer horas extra                    | [Solution][c02-solution]         |  🟢             | 131   |
-| [✔] [#3][c03-readme] | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][c03-solution]         |  🟢             | 198   |
-| [✔] [#4][c04-readme] | Una caja dentro de otra caja y otra...            | [Solution][c04-solution]         |  🟠             | 188   |
-| [✔] [#5][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴             | 220   |
-| [✔] [#6][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠             | 160   |
+| [✔] [#1][c01-readme] | ¡Automatizando envolver regalos de navidad!       | [Solution][c01-solution]         |  🟢 Easy        | 132   |
+| [✔] [#2][c02-readme] | Nadie quiere hacer horas extra                    | [Solution][c02-solution]         |  🟢 Easy        | 131   |
+| [✔] [#3][c03-readme] | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][c03-solution]         |  🟢 Easy        | 198   |
+| [✔] [#4][c04-readme] | Una caja dentro de otra caja y otra...            | [Solution][c04-solution]         |  🟠 Medium      | 188   |
+| [✔] [#5][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴 Difficult   | 220   |
+| [✔] [#6][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠 Medium      | 160   |
 
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
@@ -68,7 +68,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 ---
 
-## ***Instalación***
+# ***Instalación***
 
 Instala Jest para las pruebas con:
 
