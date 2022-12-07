@@ -38,13 +38,16 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 ## **Retos realizados**
 
+<details open>
+<summary>Show / Hide</summary>
+
 | Challenge                                                                            | Link                             | Level  | Score |
-| ------------------------------------------------------------------------------------ | -------------------------------- | ------ | ----- |
+| :----------------------------------------------------------------------------------: | :------------------------------: | :----: | :---: |
 | [✔] [Reto #1][challenge01-readme]: ¡Automatizando envolver regalos de navidad!       | [Solution][challenge01-solution] | Easy   | 132   |
 | [✔] [Reto #2][challenge02-readme]: Nadie quiere hacer horas extra                    | [Solution][challenge02-solution] | Easy   | 131   |
 | [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | Easy   | 198   |
-| [✔] [Reto #4][challenge04-readme]: Reto #4: Una caja dentro de otra caja y otra...   | [Solution][challenge04-solution] | Medium | 170   |
-| [✔] [Reto #5][challenge05-readme]: Reto #5: Optimizando viajes de Santa              | [Solution][challenge05-solution] | Medium | 167   |
+| [✔] [Reto #4][challenge04-readme]: Reto #4: Una caja dentro de otra caja y otra...   | [Solution][challenge04-solution] | Medium | 188   |
+| [✔] [Reto #5][challenge05-readme]: Reto #5: Optimizando viajes de Santa              | [Solution][challenge05-solution] | Hard   | 220   |
 
 
 
