@@ -66,7 +66,6 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c06-solution]: ./challenge06/index.js
 </details>
 
----
 
 # ***Instalación***
 
