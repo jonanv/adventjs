@@ -48,8 +48,10 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [Reto #3][challenge03-readme]: ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][challenge03-solution] | Easy   | 198   |
 | [✔] [Reto #4][challenge04-readme]: Reto #4: Una caja dentro de otra caja y otra...   | [Solution][challenge04-solution] | Medium | 188   |
 | [✔] [Reto #5][challenge05-readme]: Reto #5: Optimizando viajes de Santa              | [Solution][challenge05-solution] | Hard   | 220   |
+| [✔] [Reto #6][challenge06-readme]: Reto #6: Reto #6: Creando adornos navideños       | [Solution][challenge06-solution] | Medium | 160   |
 
 
+[^1]: **Difficulty**:  Easy 🟠 Medium 🔴 Difficult 🟣 Very difficult
 
 [challenge01-readme]: ./challenge01/README.md
 [challenge01-solution]: ./challenge01/index.js
@@ -61,6 +63,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [challenge04-solution]: ./challenge04/index.js
 [challenge05-readme]: ./challenge05/README.md
 [challenge05-solution]: ./challenge05/index.js
+[challenge06-readme]: ./challenge06/README.md
+[challenge06-solution]: ./challenge06/index.js
 
 ---
 
