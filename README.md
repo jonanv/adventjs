@@ -50,7 +50,6 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#5][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴 Difficult   | 220   |
 | [✔] [#6][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠 Medium      | 160   |
 
-
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
 [c01-readme]: ./challenge01/README.md
@@ -65,6 +64,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c05-solution]: ./challenge05/index.js
 [c06-readme]: ./challenge06/README.md
 [c06-solution]: ./challenge06/index.js
+</details>
 
 ---
 
