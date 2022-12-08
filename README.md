@@ -49,7 +49,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#4][c04-readme] | Una caja dentro de otra caja y otra...            | [Solution][c04-solution]         |  🟠 Medium      | 188   |
 | [✔] [#5][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴 Difficult   | 220   |
 | [✔] [#6][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠 Medium      | 200   |
-| [✔] [#7][c07-readme] | Creando adornos navideños                         | [Solution][c07-solution]         |  🟠 Easy        | 400   |
+| [✔] [#7][c07-readme] | Haciendo inventario de regalos                    | [Solution][c07-solution]         |  🟢 Easy        | 400   |
+| [✔] [#8][c08-readme] | ¡Necesitamos un mecánico!                         | [Solution][c08-solution]         |  🟠 Medium      | 360   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
@@ -67,6 +68,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c06-solution]: ./challenge06/index.js
 [c07-readme]: ./challenge07/README.md
 [c07-solution]: ./challenge07/index.js
+[c08-readme]: ./challenge08/README.md
+[c08-solution]: ./challenge08/index.js
 </details>
 
 
