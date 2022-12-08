@@ -28,16 +28,16 @@
 //     return cubeUp + cubeDown.slice(0, -1);
 // }
 
-// 160
-function createCube(size) {
-    let cubeUp = [];
-    let cubeDown = [];
-    for (let index = 1; index <= size; index++) {
-        cubeUp.push(' '.repeat(size - index) + '/\\'.repeat(index) + '_\\'.repeat(size));
-        cubeDown.push(' '.repeat(index - 1) + '\\/'.repeat(size - index + 1) + '_/'.repeat(size));
-    }
-    return [...cubeUp, ...cubeDown].join('\n');
-}
+// 160 Mia
+// function createCube(size) {
+//     let cubeUp = [];
+//     let cubeDown = [];
+//     for (let index = 1; index <= size; index++) {
+//         cubeUp.push(' '.repeat(size - index) + '/\\'.repeat(index) + '_\\'.repeat(size));
+//         cubeDown.push(' '.repeat(index - 1) + '\\/'.repeat(size - index + 1) + '_/'.repeat(size));
+//     }
+//     return [...cubeUp, ...cubeDown].join('\n');
+// }
 
 // 160
 // function createCube(size) {
@@ -57,6 +57,50 @@ function createCube(size) {
 //     for (let index = size; index >= 1; index--) 
 //         cubeRubik.push(' '.repeat(size - index) + '\\/'.repeat(index) + '_/'.repeat(size));
 //     return cubeRubik.join('\n');
+// }
+
+// 200
+// function createCube(size) {
+//     let cube = [];
+//     [...Array(size).keys()].map((index) => {
+//         cube[index] = ' '.repeat(size - index - 1) + '/\\'.repeat(index + 1) + '_\\'.repeat(size);
+//         cube[size + index] = ' '.repeat(index) + '\\/'.repeat(size - index) + '_/'.repeat(size);
+//     });
+//     return cube.join('\n');
+// }
+
+// 200
+// function createCube(size) {
+//     let up = '';
+//     let down = '';
+//     [...Array(size).keys()].forEach(i => {
+//         up += `${' '.repeat(size - i - 1) +
+//             '/\\'.repeat(i + 1) +
+//             '_\\'.repeat(size)}\n`;
+//         down += `${' '.repeat(i) +
+//             '\\/'.repeat(size - (i % size)) +
+//             '_/'.repeat(size)}\n`;
+//     });
+//     return up + down.slice(0, -1);
+// }
+
+// 200 Mia
+function createCube(size) {
+    let cubeUp = [];
+    let cubeDown = [];
+    [...Array(size).keys()].map((index) => {
+        cubeUp[index] = ' '.repeat(size - index - 1) + '/\\'.repeat(index + 1) + '_\\'.repeat(size);
+        cubeDown[index] = ' '.repeat(index) + '\\/'.repeat(size - index) + '_/'.repeat(size);
+    });
+    return [...cubeUp, ...cubeDown].join('\n');
+}
+
+// 200
+// function createCube(size) {
+//     return [
+//         ...Array.from({ length: size }, (v, index) => ' '.repeat(size - index - 1) + '/\\'.repeat(index + 1) + '_\\'.repeat(size)),
+//         ...Array.from({ length: size }, (v, index) => ' '.repeat(index) + '\\/'.repeat(size - index) + '_/'.repeat(size)),
+//     ].join('\n');
 // }
 
 module.exports = createCube;

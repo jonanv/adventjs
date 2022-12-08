@@ -5,11 +5,13 @@ test('Test #01 - Returns an Array', () => {
         Array.isArray(
             wrapping(["cat", "game", "socks"])
         )
-    ).toBe(true);
+    ).toStrictEqual(true);
 });
 
 test('Test #02 - wrapping(["cat", "game", "socks"])', () => {
-    expect(wrapping(["cat", "game", "socks"])).toStrictEqual(
+    expect(
+        wrapping(["cat", "game", "socks"])
+    ).toStrictEqual(
         [
             "*****\n*cat*\n*****",
             "******\n*game*\n******",
@@ -19,7 +21,9 @@ test('Test #02 - wrapping(["cat", "game", "socks"])', () => {
 });
 
 test('Test #03 - wrapping(["midu", "achalogy"])', () => {
-    expect(wrapping(["midu", "achalogy"])).toStrictEqual(
+    expect(
+        wrapping(["midu", "achalogy"])
+    ).toStrictEqual(
         [
             "******\n*midu*\n******",
             "**********\n*achalogy*\n**********"
@@ -28,7 +32,9 @@ test('Test #03 - wrapping(["midu", "achalogy"])', () => {
 });
 
 test('Test #04 - wrapping(["a"])', () => {
-    expect(wrapping(["a"])).toStrictEqual(
+    expect(
+        wrapping(["a"])
+    ).toStrictEqual(
         [
             "***\n*a*\n***"
         ]
@@ -36,5 +42,7 @@ test('Test #04 - wrapping(["a"])', () => {
 });
 
 test('Test #05 - Empty Array Should return an Empty Array', () => {
-    expect(wrapping([])).toStrictEqual([]);
+    expect(
+        wrapping([])
+    ).toStrictEqual([]);
 });
