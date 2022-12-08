@@ -1,4 +1,4 @@
-// // 163 - No valida por arrow function
+// score: 163 - No valida por arrow function
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   return solve(giftsCities, maxGifts, maxCities);
 // }
@@ -16,7 +16,7 @@
 //   return solve(giftsCities, maxGifts, maxCities, index+1, cantity, amt);
 // }
 
-// // 137
+// score: 137
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   const solve = (giftsCities, maxGifts, maxCities, index=0, cantity=0, amt=0) => {
 //     if(amt == maxCities || index == giftsCities.length) {
@@ -33,7 +33,7 @@
 //   return solve(giftsCities, maxGifts, maxCities);
 // }
 
-// // 128
+// score: 128
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   let res = 0;
 //   const getCombinations = (after, before = []) => {
@@ -50,7 +50,7 @@
 //   return getCombinations(giftsCities);
 // }
 
-// // 150
+// score: 150
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   return (
 //     giftsCities
@@ -64,7 +64,7 @@
 //   );
 // }
 
-// // 167
+// score: 167
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   let filteredGifts = giftsCities
 //     .sort((a, b) => b - a)
@@ -76,7 +76,7 @@
 // }
 
 
-// // 103
+// score: 103
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   let combinaciones = [];
 //   combinaciones.push([], [giftsCities[0]]);
@@ -103,7 +103,7 @@
 //   );
 // }
 
-// // 170
+// score: 170
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   return Math.max(...giftsCities
 //     .reduce((previousValue, accumulatedValue) =>
@@ -115,7 +115,7 @@
 //   );
 // }
 
-// 170
+// score: 170
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   const solve = (giftsCities, maxGifts, maxCities) => {
 //     let maxGiftsValid = 0
@@ -142,7 +142,7 @@
 //   return solve(giftsCities, maxGifts, maxCities)
 // }
 
-// 183
+// score: 183
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   let maxGiftsValid = 0;
 //   giftsCities.forEach((item, index) => {
@@ -160,7 +160,7 @@
 //   return maxGiftsValid;
 // }
 
-// 201
+// score: 201
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   return Math.max(
 //     ...giftsCities
@@ -181,7 +181,7 @@
 //   );
 // }
 
-// 203
+// score: 203
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   return Math.max(
 //     ...giftsCities
@@ -203,7 +203,7 @@
 //   );
 // }
 
-// 220
+// score: 220
 function getMaxGifts(giftsCities, maxGifts, maxCities) {
   label:
   return Math.max(

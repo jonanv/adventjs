@@ -1,4 +1,4 @@
-// 170
+// score: 170
 function fitsInOneBox(boxes) {
     return boxes
         .sort((a, b) => (a.l + a.w + a.h) - (b.l + b.w + b.h)) // Ordena las cajas sumando todos sus lados

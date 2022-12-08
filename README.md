@@ -1,4 +1,4 @@
-# **AdventJS** 🎅🎄
+# **🎅🎄 AdventJS**
 ## **24 días 24 retos de programación**
 
 # [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![#adventjs hashtag](https://img.shields.io/badge/-%23adventJS-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/search?q=%23adventjs&src=recent_search_click&f=live)
@@ -36,7 +36,7 @@ En absoluto, este es solo mi aporte como alguien que está iniciando su carrera 
 Puedes seguir a **midudev** en **[Twitter](https://twitter.com/midudev)** También puedes ver sus directos en **[Twitch](https://www.twitch.tv/midudev)** *(L-J a las 20h horarios habituales, pueden cambiar)* o en su canal de **[YouTube](https://www.youtube.com/c/midudev)**
 Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
-## **Retos realizados**
+## **🎮 Retos realizados**
 
 <details open>
 <summary>Show / Hide</summary>
@@ -48,7 +48,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#3][c03-readme] | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][c03-solution]         |  🟢 Easy        | 198   |
 | [✔] [#4][c04-readme] | Una caja dentro de otra caja y otra...            | [Solution][c04-solution]         |  🟠 Medium      | 188   |
 | [✔] [#5][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴 Difficult   | 220   |
-| [✔] [#6][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠 Medium      | 160   |
+| [✔] [#6][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠 Medium      | 200   |
+| [✔] [#7][c07-readme] | Creando adornos navideños                         | [Solution][c07-solution]         |  🟠 Easy        | 400   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
@@ -64,10 +65,12 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c05-solution]: ./challenge05/index.js
 [c06-readme]: ./challenge06/README.md
 [c06-solution]: ./challenge06/index.js
+[c07-readme]: ./challenge07/README.md
+[c07-solution]: ./challenge07/index.js
 </details>
 
 
-# ***Instalación***
+# **📝 Instalación**
 
 Instala Jest para las pruebas con:
 
@@ -75,7 +78,7 @@ Instala Jest para las pruebas con:
 npm install
 ```
 
-## Tests
+## **🧪 Tests**
 
 Puedes comprobar los retos usando en tu terminal el comando `npm run jest`.
 Si quieres probar tus propios scripts, tienes dos opciones:

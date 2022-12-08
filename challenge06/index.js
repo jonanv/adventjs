@@ -1,4 +1,4 @@
-// 100
+// score: 100
 // function createCube(size) {
 //     let cube = '';
 //     for (let i = 0; i < size; i++) {
@@ -17,7 +17,7 @@
 //     return cube;
 // }
 
-// 160
+// score: 160
 // function createCube(size) {
 //     let cubeUp = '';
 //     let cubeDown = '';
@@ -28,7 +28,7 @@
 //     return cubeUp + cubeDown.slice(0, -1);
 // }
 
-// 160 Mia
+// score: 160 Mia
 // function createCube(size) {
 //     let cubeUp = [];
 //     let cubeDown = [];
@@ -39,7 +39,7 @@
 //     return [...cubeUp, ...cubeDown].join('\n');
 // }
 
-// 160
+// score: 160
 // function createCube(size) {
 //     let up = "", down = "";
 //     for (let i = 1; i <= size; i++) {
@@ -49,7 +49,7 @@
 //     return up + down.trim("\n");
 // }
 
-// 120 - Midu
+// score: 120 - Midu
 // function createCube(size) {
 //     let cubeRubik = [];
 //     for (let index = 1; index <= size; index++) 
@@ -59,7 +59,7 @@
 //     return cubeRubik.join('\n');
 // }
 
-// 200
+// score: 200
 // function createCube(size) {
 //     let cube = [];
 //     [...Array(size).keys()].map((index) => {
@@ -69,7 +69,7 @@
 //     return cube.join('\n');
 // }
 
-// 200
+// score: 200
 // function createCube(size) {
 //     let up = '';
 //     let down = '';
@@ -84,7 +84,7 @@
 //     return up + down.slice(0, -1);
 // }
 
-// 200 Mia
+// score: 200 Mia
 function createCube(size) {
     let cubeUp = [];
     let cubeDown = [];
@@ -95,7 +95,7 @@ function createCube(size) {
     return [...cubeUp, ...cubeDown].join('\n');
 }
 
-// 200
+// score: 200
 // function createCube(size) {
 //     return [
 //         ...Array.from({ length: size }, (v, index) => ' '.repeat(size - index - 1) + '/\\'.repeat(index + 1) + '_\\'.repeat(size)),

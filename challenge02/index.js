@@ -1,4 +1,4 @@
-// // 130
+// score: 130
 // function countHours(year, holidays) {
 //     let hours = 0;
 //     let daysOfWeek = [1, 2, 3, 4, 5];
@@ -11,7 +11,7 @@
 //     return hours;
 // }
 
-// // 131
+// score: 131
 // function countHours(year, holidays) {
 //     return holidays.reduce((hours, holiday) => {
 //         let dayOfWeek = new Date(`${year}/${holiday}`).getDay();
@@ -20,7 +20,7 @@
 //     }, 0) * 2;
 // }
 
-// // 131
+// score: 131
 function countHours(year, holidays) {
     let hours = 0;
     holidays.map(holiday => {

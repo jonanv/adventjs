@@ -16,6 +16,7 @@
 //     })];
 // }
 
+// acore: 132
 function wrapping(gifts) {
     return [...gifts.map(gift => {
         let wrap = '*'.repeat(gift.length + 2);
