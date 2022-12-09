@@ -16,10 +16,10 @@
 
 // // score: 360 - No funciona con palabras como rdadar -> radar
 // function checkPart(part) {
-//     let arr = [...part].slice(1);
-//     let rev = [...part].reverse();
-//     let x = arr.join("") == arr.reverse().join("");
-//     let y = [...part].reduce((x, y, i) => x + (rev[i] != y), 0);
+//     let array = [...part].slice(1);
+//     let reverse = [...part].reverse();
+//     let x = array.join("") == array.reverse().join('');
+//     let y = [...part].reduce((x, y, i) => x + (reverse[i] != y), 0);
 //     return x || y <= 2;
 // }
 
