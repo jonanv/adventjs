@@ -30,7 +30,6 @@ function checkPart(part) {
     } else {
         return [...part].some((letter, index, array) => { // Se utiliza el método some que comprueba si al menos un elemento del array cumple con la condición y termina
             let newArray = array.filter((value, i) => i != index); // Se utliza filter para devolver el elemento diferente a la posicion actual
-            console.log(newArray)
             return newArray.join('') === newArray.reverse().join(''); // condicion del some
         });
     }

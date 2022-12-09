@@ -1,4 +1,4 @@
-// // 122
+// score: 122
 // function distributeGifts(packOfGifts, reindeers) {
 //     let weightOfGifts = 0;
 //     let reindeersCapacity = 0;
@@ -13,19 +13,19 @@
 //     return Math.floor(reindeersCapacity/weightOfGifts);
 // }
 
-// // 135
+// score: 135
 // function distributeGifts(packOfGifts, reindeers) {
 //     let weightOfGifts = packOfGifts.join('').length;
 //     let reindeerCapacity = reindeers.join('').length * 2;
 //     return Math.floor(reindeerCapacity/weightOfGifts);
 // }
 
-// // 164
+// score: 164
 // function distributeGifts(packOfGifts, reindeers) {
 //     return Math.floor((reindeers.join('').length * 2)/(packOfGifts.join('').length));
 // }
 
-// // 198
+// score: 198
 // distributeGifts = (packOfGifts, reindeers) => {
 //     let maxLength = (packOfGifts.length > reindeers.length) 
 //                         ? packOfGifts.length 
@@ -40,7 +40,7 @@
 //     return Math.floor(reindeersCapacity / giftWeight);
 // };
 
-// 198
+// score: 198
 distributeGifts = (packOfGifts, reindeers) => {
     let weightOfGifts = 0;
     let reindeersCapacity = 0;
@@ -51,7 +51,6 @@ distributeGifts = (packOfGifts, reindeers) => {
     reindeers.map(reindeer => {
         reindeersCapacity += reindeer.length * 2;
     });
-
     return Math.floor(reindeersCapacity/weightOfGifts);
 }
 
