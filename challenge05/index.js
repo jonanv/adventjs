@@ -103,7 +103,7 @@
 //   );
 // }
 
-// score: 170
+// score: 170 - El que más me gusta
 // function getMaxGifts(giftsCities, maxGifts, maxCities) {
 //   return Math.max(...giftsCities
 //     .reduce((previousValue, accumulatedValue) =>
@@ -209,7 +209,7 @@ function getMaxGifts(giftsCities, maxGifts, maxCities) {
   return Math.max(
     ...giftsCities
       .sort((x, y) => y - x)
-      .reduce((result, _, i) => (
+      .reduce((result, value, i) => (
           i && giftsCities.unshift(giftsCities.pop()),
           (i = giftsCities
             .slice(0, maxCities)

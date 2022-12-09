@@ -2,7 +2,7 @@
 function fitsInOneBox(boxes) {
     return boxes
         .sort((a, b) => (a.l + a.w + a.h) - (b.l + b.w + b.h)) // Ordena las cajas sumando todos sus lados
-        .every(({ l: large, w: width, h: height }, index) => { // Itera todas la posiciones del arreglo y devuelve true si la condición se cumple en todas de lo contrario devolvera false
+        .every(({ l: large, w: width, h: height }, index) => { // Itera todas la posiciones del arreglo y devuelve true si la condición se cumple en todas de lo contrario devolvera false si encuentra uno que no la cumpla y termina la iteración
             if (index === 0) return true; // Ignora la primera caja porque no tiene con que comparar
             const { l: largeCurrent, w: widthCurrent, h: heightCurrent } = boxes[index - 1]; // Caja anterior
             return (large > largeCurrent && 

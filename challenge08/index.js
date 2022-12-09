@@ -28,9 +28,10 @@ function checkPart(part) {
     if ([...part].reverse().join('') === part) {
         return true;
     } else {
-        return [...part].some((letter, index, array) => {
-            let newArray = array.filter((value, i) => i != index);
-            return newArray.join('') === newArray.reverse().join('');
+        return [...part].some((letter, index, array) => { // Se utiliza el método some que comprueba si al menos un elemento del array cumple con la condición y termina
+            let newArray = array.filter((value, i) => i != index); // Se utliza filter para devolver el elemento diferente a la posicion actual
+            console.log(newArray)
+            return newArray.join('') === newArray.reverse().join(''); // condicion del some
         });
     }
 }
