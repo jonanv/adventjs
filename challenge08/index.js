@@ -14,26 +14,35 @@
 //     })
 // }
 
-// // score: 360 - No funciona con palabras como rdadar -> radar
+// score: 360
+function checkPart(part) {
+    const middle = part.length / 2;
+    return [...part.slice(0, middle)].every((currentLeftLetter, index) => {
+        const nextLeftLetter = part[index + 1];
+        const currentRightLetter = part[part.length - index - 1];
+        const nextRightLetter = part[part.length - index - 2];
+
+        return (
+            currentLeftLetter === currentRightLetter ||
+            currentLeftLetter === nextRightLetter ||
+            nextLeftLetter === currentRightLetter
+        );
+    });
+}
+
+// score: 300 Excelente solución some y every
 // function checkPart(part) {
-//     let array = [...part].slice(1);
-//     let reverse = [...part].reverse();
-//     let x = array.join("") == array.reverse().join('');
-//     let y = [...part].reduce((x, y, i) => x + (reverse[i] != y), 0);
-//     return x || y <= 2;
+//     const arrayPart = part.split('');
+//     const isPalindrome = arrayPart.some((value, index) => {
+//         const copy = [...arrayPart];
+//         copy.splice(index, 1);
+//         const copyR = [...copy].reverse();
+//         return copy.every((element, index) => element === copyR[index]);
+//     });
+//     return isPalindrome;
 // }
 
-// score: 160
-// function checkPart(part) {
-//     return [...part].reverse().join('') === part 
-//         ? true 
-//         : [...part].some((letter, index, array) => { // Se utiliza el método some que comprueba si al menos un elemento del array cumple con la condición y termina
-//             let newArray = array.filter((value, i) => i != index); // Se utliza filter para devolver el elemento diferente a la posicion actual
-//             return newArray.join('') === newArray.reverse().join(''); // condicion del some
-//         });
-// }
-
-// score: 220
+// score: 220 Mia
 function checkPart(part) {
     if ([...part].reverse().join('') === part) {
         return true;

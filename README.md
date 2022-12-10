@@ -51,6 +51,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#6][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠 Medium      | 200   |
 | [✔] [#7][c07-readme] | Haciendo inventario de regalos                    | [Solution][c07-solution]         |  🟢 Easy        | 400   |
 | [✔] [#8][c08-readme] | ¡Necesitamos un mecánico!                         | [Solution][c08-solution]         |  🟠 Medium      | 360   |
+| [✔] [#9][c09-readme] | Las locas luces de Navidad                        | [Solution][c09-solution]         |  🟢 Easy        | 300   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Hard 🟣 Very Hard
 
@@ -70,6 +71,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c07-solution]: ./challenge07/index.js
 [c08-readme]: ./challenge08/README.md
 [c08-solution]: ./challenge08/index.js
+[c09-readme]: ./challenge09/README.md
+[c09-solution]: ./challenge09/index.js
 </details>
 
 
