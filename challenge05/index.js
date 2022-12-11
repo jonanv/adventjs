@@ -203,9 +203,8 @@
 //   );
 // }
 
-// score: 220
+// score: 220 - ahora 200
 function getMaxGifts(giftsCities, maxGifts, maxCities) {
-  label:
   return Math.max(
     ...giftsCities
       .sort((x, y) => y - x)
