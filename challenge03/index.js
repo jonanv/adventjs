@@ -9,23 +9,22 @@
 //     reindeers.map(reindeer => {
 //         reindeersCapacity += reindeer.length * 2;
 //     });
-
 //     return Math.floor(reindeersCapacity/weightOfGifts);
 // }
 
 // score: 135
-// function distributeGifts(packOfGifts, reindeers) {
-//     let weightOfGifts = packOfGifts.join('').length;
-//     let reindeerCapacity = reindeers.join('').length * 2;
-//     return Math.floor(reindeerCapacity/weightOfGifts);
-// }
+function distributeGifts(packOfGifts, reindeers) {
+    let weightOfGifts = packOfGifts.join('').length;
+    let reindeerCapacity = reindeers.join('').length * 2;
+    return Math.floor(reindeerCapacity/weightOfGifts);
+}
 
 // score: 164
 // function distributeGifts(packOfGifts, reindeers) {
 //     return Math.floor((reindeers.join('').length * 2)/(packOfGifts.join('').length));
 // }
 
-// score: 198
+// score: 198 - No valida
 // distributeGifts = (packOfGifts, reindeers) => {
 //     let maxLength = (packOfGifts.length > reindeers.length) 
 //                         ? packOfGifts.length 
@@ -40,19 +39,19 @@
 //     return Math.floor(reindeersCapacity / giftWeight);
 // };
 
-// score: 198
-distributeGifts = (packOfGifts, reindeers) => {
-    let weightOfGifts = 0;
-    let reindeersCapacity = 0;
+// score: 132
+// function distributeGifts(packOfGifts, reindeers) {
+//     let weightOfGifts = 0;
+//     let reindeersCapacity = 0;
 
-    packOfGifts.map(gift => {
-        weightOfGifts += gift.length;
-    });
-    reindeers.map(reindeer => {
-        reindeersCapacity += reindeer.length * 2;
-    });
-    return Math.floor(reindeersCapacity/weightOfGifts);
-}
+//     packOfGifts.map(gift => {
+//         weightOfGifts += gift.length;
+//     });
+//     reindeers.map(reindeer => {
+//         reindeersCapacity += reindeer.length * 2;
+//     });
+//     return Math.floor(reindeersCapacity/weightOfGifts);
+// }
 
 module.exports = distributeGifts;
 
