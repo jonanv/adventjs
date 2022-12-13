@@ -16,7 +16,7 @@
 function distributeGifts(packOfGifts, reindeers) {
     let weightOfGifts = packOfGifts.join('').length;
     let reindeerCapacity = reindeers.join('').length * 2;
-    return Math.floor(reindeerCapacity/weightOfGifts);
+    return Math.floor(reindeerCapacity / weightOfGifts);
 }
 
 // score: 164
@@ -31,7 +31,7 @@ function distributeGifts(packOfGifts, reindeers) {
 //                         : reindeers.length;
 //     let giftWeight = 0;
 //     let reindeersCapacity = 0;
-  
+
 //     for (let i = 0; i < maxLength; i++) {
 //       if (packOfGifts[i]) giftWeight += packOfGifts[i].length;
 //       if (reindeers[i]) reindeersCapacity += reindeers[i].length * 2;

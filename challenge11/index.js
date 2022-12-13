@@ -66,7 +66,7 @@ function getCompleted(part, total) {
         cont++;
         fraction = fraction * cont;
     }
-    return `${cont}/${(totalTime / partTime) * cont}`;
+    return `${ cont }/${ (totalTime / partTime) * cont }`;
 }
 
 module.exports = getCompleted;

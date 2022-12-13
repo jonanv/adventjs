@@ -2,7 +2,7 @@ const getCompleted = require('./index.js');
 
 test("Test #01 - return type string", () => {
     expect(
-        typeof(getCompleted('01:00:00', '03:00:00'))
+        typeof (getCompleted('01:00:00', '03:00:00'))
     ).toStrictEqual("string");
 });
 
