@@ -43,17 +43,18 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 | #                     | Challenge                                         | Link                             | Difficulty[^1] | Score |
 | :-------------------: | :------------------------------------------------ | :------------------------------: | :------------: | :---: |
-| [✔] [#01][c01-readme] | ¡Automatizando envolver regalos de navidad!       | [Solution][c01-solution]         |  🟢 Easy        | 132   |
-| [✔] [#02][c02-readme] | Nadie quiere hacer horas extra                    | [Solution][c02-solution]         |  🟢 Easy        | 131   |
-| [✔] [#03][c03-readme] | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][c03-solution]         |  🟢 Easy        | 135   |
-| [✔] [#04][c04-readme] | Una caja dentro de otra caja y otra...            | [Solution][c04-solution]         |  🟠 Medium      | 156   |
-| [✔] [#05][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴 Difficult   | 200   |
-| [✔] [#06][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         |  🟠 Medium      | 200   |
-| [✔] [#07][c07-readme] | Haciendo inventario de regalos                    | [Solution][c07-solution]         |  🟢 Easy        | 400   |
-| [✔] [#08][c08-readme] | ¡Necesitamos un mecánico!                         | [Solution][c08-solution]         |  🟠 Medium      | 360   |
-| [✔] [#09][c09-readme] | Las locas luces de Navidad                        | [Solution][c09-solution]         |  🟢 Easy        | 300   |
-| [✔] [#10][c10-readme] | El salto del trineo de Papá Noel                  | [Solution][c10-solution]         |  🟠 Medium      | 260   |
-| [✔] [#11][c11-readme] | Papá Noel es Scrum Master                         | [Solution][c11-solution]         | 🔴 Difficult   | 360   |
+| [✔] [#01][c01-readme] | ¡Automatizando envolver regalos de navidad!       | [Solution][c01-solution]         | 🟢 Easy       | 132   |
+| [✔] [#02][c02-readme] | Nadie quiere hacer horas extra                    | [Solution][c02-solution]         | 🟢 Easy       | 131   |
+| [✔] [#03][c03-readme] | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][c03-solution]         | 🟢 Easy       | 135   |
+| [✔] [#04][c04-readme] | Una caja dentro de otra caja y otra...            | [Solution][c04-solution]         | 🟠 Medium     | 156   |
+| [✔] [#05][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴 Difficult  | 200   |
+| [✔] [#06][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         | 🟠 Medium     | 200   |
+| [✔] [#07][c07-readme] | Haciendo inventario de regalos                    | [Solution][c07-solution]         | 🟢 Easy       | 400   |
+| [✔] [#08][c08-readme] | ¡Necesitamos un mecánico!                         | [Solution][c08-solution]         | 🟠 Medium     | 360   |
+| [✔] [#09][c09-readme] | Las locas luces de Navidad                        | [Solution][c09-solution]         | 🟢 Easy       | 300   |
+| [✔] [#10][c10-readme] | El salto del trineo de Papá Noel                  | [Solution][c10-solution]         | 🟠 Medium     | 260   |
+| [✔] [#11][c11-readme] | Papá Noel es Scrum Master                         | [Solution][c11-solution]         | 🔴 Difficult  | 360   |
+| [✔] [#12][c12-readme] | Trineos eléctricos, ¡guau!                        | [Solution][c12-solution]         | 🟠 Medium     | 400   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
@@ -79,6 +80,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c10-solution]: ./challenge10/index.js
 [c11-readme]: ./challenge11/README.md
 [c11-solution]: ./challenge11/index.js
+[c12-readme]: ./challenge12/README.md
+[c12-solution]: ./challenge12/index.js
 </details>
 
 
