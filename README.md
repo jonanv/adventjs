@@ -55,6 +55,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#10][c10-readme] | El salto del trineo de Papá Noel                  | [Solution][c10-solution]         | 🟠 Medium     | 260   |
 | [✔] [#11][c11-readme] | Papá Noel es Scrum Master                         | [Solution][c11-solution]         | 🔴 Difficult  | 360   |
 | [✔] [#12][c12-readme] | Trineos eléctricos, ¡guau!                        | [Solution][c12-solution]         | 🟠 Medium     | 400   |
+| [✔] [#13][c13-readme] | Backup de los archivos de Papá Noel               | [Solution][c13-solution]         | 🟢 Easy       | 300   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
@@ -82,6 +83,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c11-solution]: ./challenge11/index.js
 [c12-readme]: ./challenge12/README.md
 [c12-solution]: ./challenge12/index.js
+[c13-readme]: ./challenge13/README.md
+[c13-solution]: ./challenge13/index.js
 </details>
 
 
