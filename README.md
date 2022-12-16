@@ -56,6 +56,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#11][c11-readme] | Papá Noel es Scrum Master                         | [Solution][c11-solution]         | 🔴 Difficult  | 360   |
 | [✔] [#12][c12-readme] | Trineos eléctricos, ¡guau!                        | [Solution][c12-solution]         | 🟠 Medium     | 400   |
 | [✔] [#13][c13-readme] | Backup de los archivos de Papá Noel               | [Solution][c13-solution]         | 🟢 Easy       | 300   |
+| [✔] [#14][c14-readme] | El mejor camino                                   | [Solution][c14-solution]         | 🟠 Medium     | 400   |
+| [✔] [#15][c15-readme] | Decorando el árbol de Navidad                     | [Solution][c15-solution]         | 🟠 Medium     | 300   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
@@ -85,6 +87,10 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c12-solution]: ./challenge12/index.js
 [c13-readme]: ./challenge13/README.md
 [c13-solution]: ./challenge13/index.js
+[c14-readme]: ./challenge14/README.md
+[c14-solution]: ./challenge14/index.js
+[c15-readme]: ./challenge15/README.md
+[c15-solution]: ./challenge15/index.js
 </details>
 
 
