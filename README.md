@@ -58,6 +58,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#13][c13-readme] | Backup de los archivos de Papá Noel               | [Solution][c13-solution]         | 🟢 Easy       | 300   |
 | [✔] [#14][c14-readme] | El mejor camino                                   | [Solution][c14-solution]         | 🟠 Medium     | 400   |
 | [✔] [#15][c15-readme] | Decorando el árbol de Navidad                     | [Solution][c15-solution]         | 🟠 Medium     | 300   |
+| [✔] [#16][c16-readme] | Arreglando las cartas de Papá Noe                 | [Solution][c16-solution]         | 🔴 Difficult | 300   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
@@ -91,6 +92,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c14-solution]: ./challenge14/index.js
 [c15-readme]: ./challenge15/README.md
 [c15-solution]: ./challenge15/index.js
+[c16-readme]: ./challenge16/README.md
+[c16-solution]: ./challenge16/index.js
 </details>
 
 
