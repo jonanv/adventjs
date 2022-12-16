@@ -70,3 +70,14 @@ console.log(checkPart("rdadar")); // true
 // "rdadar" puede ser un palíndromo después de eliminar la primera "d"
 // ya que "radar" es un palíndromo
 
+// con console.time()
+console.time("palindrome");
+checkPart("uwu"); // true
+console.timeEnd("palindrome"); //palindrome: 0.2ms 
+
+// con performance.now()
+let startTime = performance.now();
+checkPart("uwu"); // true
+let endTime = performance.now();
+let elapsedTime = endTime - startTime;
+console.log(`Tiempo de ejecución del algoritmo: ${elapsedTime}`); //Tiempo de ejecución del algoritmo: 0.0163569999858737 
