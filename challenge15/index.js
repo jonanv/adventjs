@@ -75,6 +75,28 @@ function decorateTree(base) {
     return [base, ...tree].reverse();
 }
 
+// score: 260
+// function decorateTree(base) {
+//     const decorations = {
+//         PP: 'P',
+//         BP: 'R',
+//         RP: 'B',
+//         BR: 'P',
+//         PR: 'B',
+//         RR: 'R',
+//         RB: 'P',
+//         PB: 'R',
+//         BB: 'B',
+//     }
+//     let tree = [base];
+//     base = base.split(' ');
+//     while (base.length > 1) {
+//         base = base.slice(1).map((x, i) => decorations[base[i] + x]);
+//         tree.unshift(base.join(' '));
+//     }
+//     return tree;
+// }
+
 module.exports = decorateTree;
 
 console.log(decorateTree('B P R P'));
