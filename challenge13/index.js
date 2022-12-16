@@ -33,6 +33,18 @@ function getFilesToBackup(lastBackup, changes) {
     return [...new Set(mapChanges)].sort((a, b) => a - b);
 }
 
+// score: 220
+// function getFilesToBackup(lastBackup, changes) {
+//     const modified = [];
+//     changes.forEach(([fileId, timestamp]) => {
+//         if (timestamp > lastBackup) {
+//             modified.push(fileId);
+//         }
+//     });
+//     const unique = new Set(modified);
+//     return [...unique].sort((a, b) => a - b);
+// }
+
 module.exports = getFilesToBackup;
 
 const lastBackup = 1546300800;
