@@ -59,6 +59,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#14][c14-readme] | El mejor camino                                   | [Solution][c14-solution]         | 🟠 Medium     | 400   |
 | [✔] [#15][c15-readme] | Decorando el árbol de Navidad                     | [Solution][c15-solution]         | 🟠 Medium     | 300   |
 | [✔] [#16][c16-readme] | Arreglando las cartas de Papá Noe                 | [Solution][c16-solution]         | 🔴 Difficult | 300   |
+| [✔] [#17][c17-readme] | Llevando los regalos en sacos                     | [Solution][c17-solution]         | 🟠 Medium     | 260   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
@@ -94,6 +95,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c15-solution]: ./challenge15/index.js
 [c16-readme]: ./challenge16/README.md
 [c16-solution]: ./challenge16/index.js
+[c17-readme]: ./challenge17/README.md
+[c17-solution]: ./challenge17/index.js
 </details>
 
 
