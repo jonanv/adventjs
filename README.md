@@ -60,7 +60,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#15][c15-readme] | Decorando el árbol de Navidad                     | [Solution][c15-solution]         | 🟠 Medium     | 300   |
 | [✔] [#16][c16-readme] | Arreglando las cartas de Papá Noe                 | [Solution][c16-solution]         | 🔴 Difficult | 300   |
 | [✔] [#17][c17-readme] | Llevando los regalos en sacos                     | [Solution][c17-solution]         | 🟠 Medium     | 260   |
-| [✔] [#18][c18-readme] | ¡Nos quedamos sin tinta!                          | [Solution][c18-solution]         | 🟢 Easy       | 260   |
+| [✔] [#18][c18-readme] | ¡Nos quedamos sin tinta!                          | [Solution][c18-solution]         | 🟢 Easy       | 200   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
