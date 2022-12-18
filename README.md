@@ -60,6 +60,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#15][c15-readme] | Decorando el árbol de Navidad                     | [Solution][c15-solution]         | 🟠 Medium     | 300   |
 | [✔] [#16][c16-readme] | Arreglando las cartas de Papá Noe                 | [Solution][c16-solution]         | 🔴 Difficult | 300   |
 | [✔] [#17][c17-readme] | Llevando los regalos en sacos                     | [Solution][c17-solution]         | 🟠 Medium     | 260   |
+| [✔] [#18][c18-readme] | ¡Nos quedamos sin tinta!                          | [Solution][c18-solution]         | 🟢 Easy       | 260   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
@@ -97,6 +98,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c16-solution]: ./challenge16/index.js
 [c17-readme]: ./challenge17/README.md
 [c17-solution]: ./challenge17/index.js
+[c18-readme]: ./challenge18/README.md
+[c18-solution]: ./challenge18/index.js
 </details>
 
 
