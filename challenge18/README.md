@@ -1,7 +1,7 @@
 # **Instruciones**
 
-## ****
-#### ****
+## **Reto #18: ¡Nos quedamos sin tinta!**
+#### **Fácil**
 
 Estamos imprimiendo los códigos de barra para los envíos. En la fábrica de Papá Noel usando un sistema de estampación de números donde cada número se imprime con una tinta diferente. Es un sistema antiguo pero fiable. Sin embargo, a veces nos quedamos sin tinta de un número.
 
