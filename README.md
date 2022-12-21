@@ -62,6 +62,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#17][c17-readme] | Llevando los regalos en sacos                     | [Solution][c17-solution]         | 🟠 Medium     | 260   |
 | [✔] [#18][c18-readme] | ¡Nos quedamos sin tinta!                          | [Solution][c18-solution]         | 🟢 Easy       | 300   |
 | [✔] [#19][c19-readme] | Ordenando los regalos                             | [Solution][c19-solution]         | 🟢 Easy       | 400   |
+| [✔] [#20][c20-readme] | Ordenando los regalos                             | [Solution][c20-solution]         | 🟢 Easy       | 400   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
@@ -103,6 +104,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c18-solution]: ./challenge18/index.js
 [c19-readme]: ./challenge19/README.md
 [c19-solution]: ./challenge19/index.js
+[c20-readme]: ./challenge20/README.md
+[c20-solution]: ./challenge20/index.js
 </details>
 
 

@@ -23,7 +23,12 @@
     "test:16": "jest -i challenge16/challenge16.test.js",
     "test:17": "jest -i challenge17/challenge17.test.js",
     "test:18": "jest -i challenge18/challenge18.test.js",
-    "test:19": "jest -i challenge19/challenge19.test.js"
+    "test:19": "jest -i challenge19/challenge19.test.js",
+    "test:20": "jest -i challenge20/challenge20.test.js",
+    "test:21": "jest -i challenge21/challenge21.test.js",
+    "test:22": "jest -i challenge22/challenge22.test.js",
+    "test:23": "jest -i challenge23/challenge23.test.js",
+    "test:24": "jest -i challenge24/challenge24.test.js"
   },
   "repository": {
     "type": "git",
