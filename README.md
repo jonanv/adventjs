@@ -62,7 +62,11 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#17][c17-readme] | Llevando los regalos en sacos                     | [Solution][c17-solution]         | 🟠 Medium     | 260   |
 | [✔] [#18][c18-readme] | ¡Nos quedamos sin tinta!                          | [Solution][c18-solution]         | 🟢 Easy       | 300   |
 | [✔] [#19][c19-readme] | Ordenando los regalos                             | [Solution][c19-solution]         | 🟢 Easy       | 400   |
-| [✔] [#20][c20-readme] | Ordenando los regalos                             | [Solution][c20-solution]         | 🔴 Difficult | 200   |
+| [✔] [#20][c20-readme] | Más viajes retadores                              | [Solution][c20-solution]         | 🔴 Difficult | 200   |
+| [✔] [#21][c21-readme] |                              | [Solution][c21-solution]         | 🔴 Difficult | 200   |
+| [✔] [#22][c22-readme] |                              | [Solution][c22-solution]         | 🔴 Difficult | 200   |
+| [✔] [#23][c23-readme] |                              | [Solution][c23-solution]         | 🔴 Difficult | 200   |
+| [✔] [#24][c24-readme] |                              | [Solution][c24-solution]         | 🔴 Difficult | 200   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
@@ -106,6 +110,14 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 [c19-solution]: ./challenge19/index.js
 [c20-readme]: ./challenge20/README.md
 [c20-solution]: ./challenge20/index.js
+[c21-readme]: ./challenge21/README.md
+[c21-solution]: ./challenge21/index.js
+[c22-readme]: ./challenge22/README.md
+[c22-solution]: ./challenge22/index.js
+[c23-readme]: ./challenge23/README.md
+[c23-solution]: ./challenge23/index.js
+[c24-readme]: ./challenge24/README.md
+[c24-solution]: ./challenge24/index.js
 </details>
 
 
