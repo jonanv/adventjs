@@ -58,13 +58,13 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#13][c13-readme] | Backup de los archivos de Papá Noel               | [Solution][c13-solution]         | 🟢 Easy       | 300   |
 | [✔] [#14][c14-readme] | El mejor camino                                   | [Solution][c14-solution]         | 🟠 Medium     | 400   |
 | [✔] [#15][c15-readme] | Decorando el árbol de Navidad                     | [Solution][c15-solution]         | 🟠 Medium     | 300   |
-| [✔] [#16][c16-readme] | Arreglando las cartas de Papá Noe                 | [Solution][c16-solution]         | 🔴 Difficult | 300   |
+| [✔] [#16][c16-readme] | Arreglando las cartas de Papá Noe                 | [Solution][c16-solution]         | 🔴 Difficult  | 300   |
 | [✔] [#17][c17-readme] | Llevando los regalos en sacos                     | [Solution][c17-solution]         | 🟠 Medium     | 260   |
 | [✔] [#18][c18-readme] | ¡Nos quedamos sin tinta!                          | [Solution][c18-solution]         | 🟢 Easy       | 300   |
 | [✔] [#19][c19-readme] | Ordenando los regalos                             | [Solution][c19-solution]         | 🟢 Easy       | 400   |
-| [✔] [#20][c20-readme] | Más viajes retadores                              | [Solution][c20-solution]         | 🔴 Difficult | 200   |
-| [✔] [#21][c21-readme] |                              | [Solution][c21-solution]         | 🔴 Difficult | 200   |
-| [✔] [#22][c22-readme] |                              | [Solution][c22-solution]         | 🔴 Difficult | 200   |
+| [✔] [#20][c20-readme] | Más viajes retadores                              | [Solution][c20-solution]         | 🔴 Difficult  | 200   |
+| [✔] [#21][c21-readme] | Creando la tabla de regalos                       | [Solution][c21-solution]         | 🟠 Medium     | 300   |
+| [✔] [#22][c22-readme] | La iluminación en sintonía                        | [Solution][c22-solution]         | 🟢 Easy       | 500   |
 | [✔] [#23][c23-readme] |                              | [Solution][c23-solution]         | 🔴 Difficult | 200   |
 | [✔] [#24][c24-readme] |                              | [Solution][c24-solution]         | 🔴 Difficult | 200   |
 
