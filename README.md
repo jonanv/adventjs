@@ -65,8 +65,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [✔] [#20][c20-readme] | Más viajes retadores                              | [Solution][c20-solution]         | 🔴 Difficult | 200   |
 | [✔] [#21][c21-readme] | Creando la tabla de regalos                       | [Solution][c21-solution]         | 🟠 Medium     | 300   |
 | [✔] [#22][c22-readme] | La iluminación en sintonía                        | [Solution][c22-solution]         | 🟢 Easy       | 500   |
-| [✔] [#23][c23-readme] | Compilador de Papá Noel                           | [Solution][c23-solution]         | 🔴 Difficult |  10   |
-| [✔] [#24][c24-readme] |                              | [Solution][c24-solution]         | 🔴 Difficult | 200   |
+| [✔] [#23][c23-readme] | Compilador de Papá Noel                           | [Solution][c23-solution]         | 🔴 Difficult | 160   |
+| [✔] [#24][c24-readme] | El último reto es un laberinto                    | [Solution][c24-solution]         | 🔴 Difficult | 600   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
