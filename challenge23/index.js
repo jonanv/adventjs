@@ -91,45 +91,80 @@
 //     return Object.values(memory);
 // }
 
-// score: 10
+// score: 160
 function executeCommands(commands) {
-    let registers = [0, 0, 0, 0, 0, 0, 0, 0];
-    let values = [];
-    let comm = [];
-    let i = 0;
+    let cpu = [0, 0, 0, 0, 0, 0, 0, 0];
 
-    while (i < commands.length) {
-        comm = commands[i].split(/ /g);
-        values = comm[1].split(/,/g);
-        switch (comm[0]) {
-            case 'MOV':
-                if (values[0].includes('V')) {
-                    registers[parseInt(values[1][2])] = registers[parseInt(values[0][2])];
-                } else {
-                    registers[parseInt(values[1][2])] = parseInt(values[0]);
-                }
-                break;
-            case 'ADD':
-                registers[parseInt(values[0][2])] += registers[parseInt(values[1][2])];
-                break;
-            case 'DEC':
-                registers[parseInt(values[0][2])]--;
-                break
-            case 'INC':
-                registers[parseInt(values[0][2])]++;
-                break;
-            case 'JMP':
-                if (registers[0] > 0) i = values[0] - 1;
-                break;
+    let cmd = {
+        MOV: (x) => {
+            let mov = x.split(",")[0].split(" ")[1];
+            cpu[+x.at(-1)] = (cpu[+mov.at(-1)] * +mov.startsWith("V")) + ~~mov;
+        },
+        ADD: (x) => {
+            let v1 = +x.split(",")[0].at(-1);
+            let v2 = +x.split(",")[1].at(-1);
+            cpu[v1] = (cpu[v1] + cpu[v2]) % 256;
+        },
+        INC: (x) => {
+            cpu[+x.at(-1)] = (cpu[+x.at(-1)] + 1) % 256;
+        },
+        DEC: (x) => {
+            cpu[+x.at(-1)] = (((cpu[+x.at(-1)] - 1) % 256) + 256) % 256;
+        },
+        JMP: (x) => {
+            commands = commands
+                .concat(
+                    commands.slice(+x.split(" ").at(-1),
+                    (commands.indexOf(x) + 1) * !!cpu[0])
+                );
         }
-        i++;
     }
-    return registers.map((register) => {
-        if (register > 255) return register - 256;
-        else if (register < 0) return register + 256;
-        else return register;
-    });
+
+    for (let i = 0; i < commands.length; i++) {
+        cmd[commands[i].split(" ")[0]](commands[i]);
+    }
+    return cpu;
 }
+
+// score: 10
+// function executeCommands(commands) {
+//     let registers = [0, 0, 0, 0, 0, 0, 0, 0];
+//     let values = [];
+//     let comm = [];
+//     let i = 0;
+
+//     while (i < commands.length) {
+//         comm = commands[i].split(/ /g);
+//         values = comm[1].split(/,/g);
+//         switch (comm[0]) {
+//             case 'MOV':
+//                 if (values[0].includes('V')) {
+//                     registers[parseInt(values[1][2])] = registers[parseInt(values[0][2])];
+//                 } else {
+//                     registers[parseInt(values[1][2])] = parseInt(values[0]);
+//                 }
+//                 break;
+//             case 'ADD':
+//                 registers[parseInt(values[0][2])] += registers[parseInt(values[1][2])];
+//                 break;
+//             case 'DEC':
+//                 registers[parseInt(values[0][2])]--;
+//                 break
+//             case 'INC':
+//                 registers[parseInt(values[0][2])]++;
+//                 break;
+//             case 'JMP':
+//                 if (registers[0] > 0) i = values[0] - 1;
+//                 break;
+//         }
+//         i++;
+//     }
+//     return registers.map((register) => {
+//         if (register > 255) return register - 256;
+//         else if (register < 0) return register + 256;
+//         else return register;
+//     });
+// }
 
 module.exports = executeCommands;
 
