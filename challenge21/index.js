@@ -79,7 +79,7 @@
 //     return result;
 // }
 
-// score: 160
+// score: 300
 function printTable(gifts) {
     const maxName = Math.max(...gifts.map(g => g.name.length), 4)
     const maxQuan = Math.max(...gifts.map(g => String(g.quantity).length), 8)
@@ -99,13 +99,17 @@ function printTable(gifts) {
 
 module.exports = printTable;
 
-printTable([
-    { name: 'Game', quantity: 2 },
-    { name: 'Bike', quantity: 1 },
-    { name: 'Book', quantity: 3 }
-]);
+console.log(
+    printTable([
+        { name: 'Game', quantity: 2 },
+        { name: 'Bike', quantity: 1 },
+        { name: 'Book', quantity: 3 }
+    ])
+);
 
-printTable([
-    { name: 'PlayStation 5', quantity: 9234782374892 },
-    { name: 'Book Learn Web Dev', quantity: 23531 }
-]);
+console.log(
+    printTable([
+        { name: 'PlayStation 5', quantity: 9234782374892 },
+        { name: 'Book Learn Web Dev', quantity: 23531 }
+    ])
+);
