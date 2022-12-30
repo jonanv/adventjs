@@ -209,38 +209,42 @@
 //     return !!r([x, y]);
 // }
 
-// score: 3000
-// function canExit(maze) {
-//     const r = ([x, y]) => {
-//         const val = maze[x][y];
-//         delete maze[x][y];
-//         return (
-//             ['E'].includes(val) +
-//             [
-//                 [x + 1, y],
-//                 [x - 1, y],
-//                 [x, y + 1],
-//                 [x, y - 1]
-//             ]
-//                 .filter((arr) => maze[arr[0]])
-//                 .filter(arr => ['E', ' '].includes(maze[arr[0]][arr[1]]))
-//                 .some(r)
-//         );
-//     };
-//     const n = maze.flat().join('').indexOf('S');
-//     const x = ~~(n / maze[0].length);
-//     const y = n % maze[0].length;
-//     return !!r([x, y]);
-// }
-
-// score:
+// score: 150
 function canExit(maze) {
-    let length = maze.length - 1;
-    console.log()
-    maze.map((m) => {
-        console.log(m.length - 1)
-        console.log(m.indexOf('S'));
-    });
+    function canReallyExit(maze, row, col) {
+        if (maze[row][col] === 'E') return true;
+        else if(maze[row][col] !== ' ') return false;
+
+        maze[row][col] = '.';
+
+        if (
+            row >= 1 
+            && canReallyExit(maze, row - 1, col)
+        ) return true;
+        else if(
+            row < maze.length - 1 
+            && canReallyExit(maze, row + 1, col)
+        ) return true;
+
+        else if (
+            col >= 1
+            && canReallyExit(maze, row, col - 1)
+        ) return true;
+        else if (
+            col < maze[row].length - 1 
+            && canReallyExit(maze, row, col + 1)
+        ) return true;
+        else return false;
+    }
+    const startRow = maze.findIndex(
+        columns => columns.find(x => x === 'S')
+    );
+    const startCol = maze[startRow].findIndex(
+        cell => cell === 'S'
+    );
+    maze[startRow][startCol] = ' ';
+    const result = canReallyExit(maze, startRow, startCol);
+    return result;
 }
 
 module.exports = canExit;
