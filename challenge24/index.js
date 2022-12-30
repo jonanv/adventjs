@@ -210,31 +210,63 @@
 // }
 
 // score: 150
+// function canExit(maze) {
+//     function canReallyExit(maze, row, col) {
+//         if (maze[row][col] === 'E') return true;
+//         else if(maze[row][col] !== ' ') return false;
+
+//         maze[row][col] = '.';
+
+//         if (
+//             row >= 1 
+//             && canReallyExit(maze, row - 1, col)
+//         ) return true;
+//         else if(
+//             row < maze.length - 1 
+//             && canReallyExit(maze, row + 1, col)
+//         ) return true;
+
+//         else if (
+//             col >= 1
+//             && canReallyExit(maze, row, col - 1)
+//         ) return true;
+//         else if (
+//             col < maze[row].length - 1 
+//             && canReallyExit(maze, row, col + 1)
+//         ) return true;
+//         else return false;
+//     }
+//     const startRow = maze.findIndex(
+//         columns => columns.find(x => x === 'S')
+//     );
+//     const startCol = maze[startRow].findIndex(
+//         cell => cell === 'S'
+//     );
+//     maze[startRow][startCol] = ' ';
+//     const result = canReallyExit(maze, startRow, startCol);
+//     return result;
+// }
+
+// score: 1200
 function canExit(maze) {
+    const wall = Array(maze.length + 2).fill('W');
+    maze = [wall, ...maze.map(
+        row => ['W', ...row, 'W']
+    ), wall];
+
+    const moves = [
+        [-1, 0],
+        [1, 0],
+        [0, -1],
+        [0, 1]
+    ];
     function canReallyExit(maze, row, col) {
-        if (maze[row][col] === 'E') return true;
-        else if(maze[row][col] !== ' ') return false;
-
-        maze[row][col] = '.';
-
-        if (
-            row >= 1 
-            && canReallyExit(maze, row - 1, col)
-        ) return true;
-        else if(
-            row < maze.length - 1 
-            && canReallyExit(maze, row + 1, col)
-        ) return true;
-
-        else if (
-            col >= 1
-            && canReallyExit(maze, row, col - 1)
-        ) return true;
-        else if (
-            col < maze[row].length - 1 
-            && canReallyExit(maze, row, col + 1)
-        ) return true;
-        else return false;
+        return (maze[row][col] === 'E') 
+        || (maze[row][col] === ' ')
+        && (maze[row][col] = '.')
+        && moves.some(([deltaRow, deltaCol]) => 
+            canReallyExit(maze, row + deltaRow, col + deltaCol)
+        );
     }
     const startRow = maze.findIndex(
         columns => columns.find(x => x === 'S')
@@ -271,3 +303,13 @@ console.log(
     ]) // -> false
 );
 // No hay manera de llegar de [0, 4] a [4, 4]
+
+// [
+//     ['W', 'W', 'W', 'W', 'W', 'W', 'W'],
+//     ['W', ' ', ' ', 'W', ' ', 'S', 'W'],
+//     ['W', ' ', ' ', ' ', ' ', ' ', 'W'],
+//     ['W', ' ', ' ', ' ', 'W', ' ', 'W'],
+//     ['W', 'W', 'W', ' ', 'W', 'W', 'W'],
+//     ['W', ' ', ' ', ' ', ' ', 'E', 'W'],
+//     ['W', 'W', 'W', 'W', 'W', 'W', 'W']
+// ]
