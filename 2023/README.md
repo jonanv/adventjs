@@ -5,7 +5,7 @@
 
 
 
-![AdventJs2022](https://res.cloudinary.com/caraje/image/upload/v1669984572/cof4k8cttt06cjpf42ys.png)
+![AdventJs2023](https://imgur.com/V5JKvkv)
 
 
 ## **Sobre AdventJs**
@@ -41,83 +41,37 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 <details open>
 <summary>Show / Hide</summary>
 
-| #                     | Challenge                                         | Link                             | Difficulty[^1] | Score |
-| :-------------------: | :------------------------------------------------ | :------------------------------: | :------------: | :---: |
-| [✔] [#01][c01-readme] | ¡Automatizando envolver regalos de navidad!       | [Solution][c01-solution]         | 🟢 Easy       | 132   |
-| [✔] [#02][c02-readme] | Nadie quiere hacer horas extra                    | [Solution][c02-solution]         | 🟢 Easy       | 131   |
-| [✔] [#03][c03-readme] | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Solution][c03-solution]         | 🟢 Easy       | 135   |
-| [✔] [#04][c04-readme] | Una caja dentro de otra caja y otra...            | [Solution][c04-solution]         | 🟠 Medium     | 156   |
-| [✔] [#05][c05-readme] | Optimizando viajes de Santa                       | [Solution][c05-solution]         | 🔴 Difficult | 200   |
-| [✔] [#06][c06-readme] | Creando adornos navideños                         | [Solution][c06-solution]         | 🟠 Medium     | 200   |
-| [✔] [#07][c07-readme] | Haciendo inventario de regalos                    | [Solution][c07-solution]         | 🟢 Easy       | 400   |
-| [✔] [#08][c08-readme] | ¡Necesitamos un mecánico!                         | [Solution][c08-solution]         | 🟠 Medium     | 360   |
-| [✔] [#09][c09-readme] | Las locas luces de Navidad                        | [Solution][c09-solution]         | 🟢 Easy       | 300   |
-| [✔] [#10][c10-readme] | El salto del trineo de Papá Noel                  | [Solution][c10-solution]         | 🟠 Medium     | 260   |
-| [✔] [#11][c11-readme] | Papá Noel es Scrum Master                         | [Solution][c11-solution]         | 🔴 Difficult | 360   |
-| [✔] [#12][c12-readme] | Trineos eléctricos, ¡guau!                        | [Solution][c12-solution]         | 🟠 Medium     | 400   |
-| [✔] [#13][c13-readme] | Backup de los archivos de Papá Noel               | [Solution][c13-solution]         | 🟢 Easy       | 300   |
-| [✔] [#14][c14-readme] | El mejor camino                                   | [Solution][c14-solution]         | 🟠 Medium     | 400   |
-| [✔] [#15][c15-readme] | Decorando el árbol de Navidad                     | [Solution][c15-solution]         | 🟠 Medium     | 300   |
-| [✔] [#16][c16-readme] | Arreglando las cartas de Papá Noe                 | [Solution][c16-solution]         | 🔴 Difficult | 300   |
-| [✔] [#17][c17-readme] | Llevando los regalos en sacos                     | [Solution][c17-solution]         | 🟠 Medium     | 260   |
-| [✔] [#18][c18-readme] | ¡Nos quedamos sin tinta!                          | [Solution][c18-solution]         | 🟢 Easy       | 300   |
-| [✔] [#19][c19-readme] | Ordenando los regalos                             | [Solution][c19-solution]         | 🟢 Easy       | 400   |
-| [✔] [#20][c20-readme] | Más viajes retadores                              | [Solution][c20-solution]         | 🔴 Difficult | 200   |
-| [✔] [#21][c21-readme] | Creando la tabla de regalos                       | [Solution][c21-solution]         | 🟠 Medium     | 300   |
-| [✔] [#22][c22-readme] | La iluminación en sintonía                        | [Solution][c22-solution]         | 🟢 Easy       | 500   |
-| [✔] [#23][c23-readme] | Compilador de Papá Noel                           | [Solution][c23-solution]         | 🔴 Difficult | 160   |
-| [✔] [#24][c24-readme] | El último reto es un laberinto                    | [Solution][c24-solution]         | 🔴 Difficult | 3000  |
+| Numbe     | Challenge                 | Description        | Solution                 | Difficulty[^1] | Score |
+| --------: | :----------------------:  | :-----------------:| :----------------------: | :------------: | :---: |
+| [✔] #01  | ¡Primer regalo repetido!  | [Show][c01-readme] | [Solution][c01-solution] |       🟢       |  330  |
+| [-] #02  |                           |                    |                          |                |       |
+| [-] #03  |                           |                    |                          |                |       |
+| [-] #04  |                           |                    |                          |                |       |
+| [-] #05  |                           |                    |                          |                |       |
+| [-] #06  |                           |                    |                          |                |       |
+| [-] #07  |                           |                    |                          |                |       |
+| [-] #08  |                           |                    |                          |                |       |
+| [-] #09  |                           |                    |                          |                |       |
+| [-] #10  |                           |                    |                          |                |       |
+| [-] #11  |                           |                    |                          |                |       |
+| [-] #12  |                           |                    |                          |                |       |
+| [-] #13  |                           |                    |                          |                |       |
+| [-] #14  |                           |                    |                          |                |       |
+| [-] #15  |                           |                    |                          |                |       |
+| [-] #16  |                           |                    |                          |                |       |
+| [-] #17  |                           |                    |                          |                |       |
+| [-] #18  |                           |                    |                          |                |       |
+| [-] #19  |                           |                    |                          |                |       |
+| [-] #20  |                           |                    |                          |                |       |
+| [-] #21  |                           |                    |                          |                |       |
+| [-] #22  |                           |                    |                          |                |       |
+| [-] #23  |                           |                    |                          |                |       |
+| [-] #24  |                           |                    |                          |                |       |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
 [c01-readme]: ./challenge01/README.md
 [c01-solution]: ./challenge01/index.js
-[c02-readme]: ./challenge02/README.md
-[c02-solution]: ./challenge02/index.js
-[c03-readme]: ./challenge03/README.md
-[c03-solution]: ./challenge03/index.js
-[c04-readme]: ./challenge04/README.md
-[c04-solution]: ./challenge04/index.js
-[c05-readme]: ./challenge05/README.md
-[c05-solution]: ./challenge05/index.js
-[c06-readme]: ./challenge06/README.md
-[c06-solution]: ./challenge06/index.js
-[c07-readme]: ./challenge07/README.md
-[c07-solution]: ./challenge07/index.js
-[c08-readme]: ./challenge08/README.md
-[c08-solution]: ./challenge08/index.js
-[c09-readme]: ./challenge09/README.md
-[c09-solution]: ./challenge09/index.js
-[c10-readme]: ./challenge10/README.md
-[c10-solution]: ./challenge10/index.js
-[c11-readme]: ./challenge11/README.md
-[c11-solution]: ./challenge11/index.js
-[c12-readme]: ./challenge12/README.md
-[c12-solution]: ./challenge12/index.js
-[c13-readme]: ./challenge13/README.md
-[c13-solution]: ./challenge13/index.js
-[c14-readme]: ./challenge14/README.md
-[c14-solution]: ./challenge14/index.js
-[c15-readme]: ./challenge15/README.md
-[c15-solution]: ./challenge15/index.js
-[c16-readme]: ./challenge16/README.md
-[c16-solution]: ./challenge16/index.js
-[c17-readme]: ./challenge17/README.md
-[c17-solution]: ./challenge17/index.js
-[c18-readme]: ./challenge18/README.md
-[c18-solution]: ./challenge18/index.js
-[c19-readme]: ./challenge19/README.md
-[c19-solution]: ./challenge19/index.js
-[c20-readme]: ./challenge20/README.md
-[c20-solution]: ./challenge20/index.js
-[c21-readme]: ./challenge21/README.md
-[c21-solution]: ./challenge21/index.js
-[c22-readme]: ./challenge22/README.md
-[c22-solution]: ./challenge22/index.js
-[c23-readme]: ./challenge23/README.md
-[c23-solution]: ./challenge23/index.js
-[c24-readme]: ./challenge24/README.md
-[c24-solution]: ./challenge24/index.js
 </details>
 
 
@@ -140,6 +94,9 @@ Si quieres probar tus propios scripts, tienes dos opciones:
 ```bash
 npm run test # Para correr todos los test de todos los retos
 
-npm run test:n # n siendo el numero del reto, por ejemplo
-npm run test:1 # Correra el test del reto 1
+npm run test:yyyy # Para correr todos los test de todos los retos de un año es especifico, por ejemplo
+npm run test:2022 # Para correr todos los test de todos los retos del año 2022
+
+npm run test:n:yyyy # n siendo el numero del reto y yyyy el año, por ejemplo
+npm run test:1:2022 # Correra el test del reto 1 del año 2022
 ```

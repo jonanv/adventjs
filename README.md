@@ -37,11 +37,11 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 <details open>
 <summary>Show / Hide</summary>
 
-| #                         | Challenge            |
-| :-----------------------: | :------------------- |
-| [✔] [#01][ajs2021-readme] | Advent JS 2021       |
-| [✔] [#02][ajs2022-readme] | Advent JS 2022       |
-| [✔] [#03][ajs2023-readme] | Advent JS 2023       |
+| #                          | Year                 |
+| :------------------------: | :------------------- |
+| [✔] [2021][ajs2021-readme] | Advent JS 2021       |
+| [✔] [2022][ajs2022-readme] | Advent JS 2022       |
+| [✔] [2023][ajs2023-readme] | Advent JS 2023       |
 
 
 
