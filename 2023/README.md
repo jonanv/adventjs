@@ -1,42 +1,8 @@
 # **🎁🧦 AdventJS**
 ## **24 días 24 retos de programación**
 
-# [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![#adventjs hashtag](https://img.shields.io/badge/-%23adventJS-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/search?q=%23adventjs&src=recent_search_click&f=live)
-
-
 
 ![AdventJs2023](https://imgur.com/V5JKvkv.png)
-
-
-## **Sobre AdventJs**
-
-### **¿Donde puedo participar?**
-
-Si estas interesado participar, cada dia de Diciembre se desbloquea un nuevo reto a las 18h *(Hora Peninsular de España)*
-Puedes acceder a los retos en **[Adventjs.dev](https://adventjs.dev/es)**
-Y tambien puedes colaborar con la comunidad en el **[Discord](https://t.co/XruHkD62j3)** de **[Midudev](https://twitter.com/midudev)**
-
-
-### **¿Qué es un adviento?**
-
-Aunque tiene sus raices en la religión católica, el adviento se ha convertido en una tradición donde los niños conseguían chocolate por 4 semanas, uno por día, del 1 al 24 de diciembre. Aquí lo adaptamos a retos de programación.
-
-### **¿Esto es una idea original?**
-
-Desde 2015 se celebra el Advent Of Code que trae retos de programación cada día. En este caso, los retos están pensados para ser solucionados con `JavaScript`/`TypeScript`.
-
-### **¿De qué trata este repositorio?**
-
-Este repositorio esta creado para **recopilar mis soluciones** a cada uno de los retos mientras dure esta iniciativa, con el fin de ayudar a otros miembros de la comunidad o bien para recibir **feedback** sobre mis propias soluciones por parte de otros miembros de la comunidad.
-
-### **¿Son estas soluciones las mejores posibles a cada uno de los retos?**
-
-En absoluto, este es solo mi aporte como alguien que está iniciando su carrera en la programación, por lo que lo más posible es que las soluciones no sean las más optimas a cada reto.
-
-### **¿Dónde encontrar más sobre la comunidad?**
-
-Puedes seguir a **midudev** en **[Twitter](https://twitter.com/midudev)** También puedes ver sus directos en **[Twitch](https://www.twitch.tv/midudev)** *(L-J a las 20h horarios habituales, pueden cambiar)* o en su canal de **[YouTube](https://www.youtube.com/c/midudev)**
-Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 ## **🎮 Retos realizados**
 
