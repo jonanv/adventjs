@@ -1,11 +1,11 @@
-# **🎅🎄 AdventJS**
+# **🎁🧦 AdventJS**
 ## **24 días 24 retos de programación**
 
 # [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![#adventjs hashtag](https://img.shields.io/badge/-%23adventJS-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/search?q=%23adventjs&src=recent_search_click&f=live)
 
 
 
-![AdventJs2023](https://imgur.com/V5JKvkv)
+![AdventJs2023](https://imgur.com/V5JKvkv.png)
 
 
 ## **Sobre AdventJs**
@@ -17,11 +17,13 @@ Puedes acceder a los retos en **[Adventjs.dev](https://adventjs.dev/es)**
 Y tambien puedes colaborar con la comunidad en el **[Discord](https://t.co/XruHkD62j3)** de **[Midudev](https://twitter.com/midudev)**
 
 
-### **¿Que es AdventJs?**
+### **¿Qué es un adviento?**
 
-AdventJs es una iniciativa creada por el creador de contenido sobre Desarrollo Web **[Midudev](https://twitter.com/midudev)**, donde durante 24 días se revelaran retos diarios para que lo resuelvan la comunidad. 
+Aunque tiene sus raices en la religión católica, el adviento se ha convertido en una tradición donde los niños conseguían chocolate por 4 semanas, uno por día, del 1 al 24 de diciembre. Aquí lo adaptamos a retos de programación.
 
-Estos retos pueden ser resueltos usando tanto `Javascript` como `Typescript` y tendrán una dificultad que ira variando según el día.
+### **¿Esto es una idea original?**
+
+Desde 2015 se celebra el Advent Of Code que trae retos de programación cada día. En este caso, los retos están pensados para ser solucionados con `JavaScript`/`TypeScript`.
 
 ### **¿De qué trata este repositorio?**
 
