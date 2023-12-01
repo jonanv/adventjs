@@ -10,31 +10,31 @@
 <summary>Show / Hide</summary>
 
 | Number   | Challenge                                         | Description        | Solution                 | Difficulty[^1] | Score |
-| :------: | :-----------------------------------------------: | :------------------| :----------------------: | :------------: | :---: |
-| [✔] #01 | ¡Automatizando envolver regalos de navidad!       | [Show][c01-readme] | [Solution][c01-solution] |      🟢       |  132  |
-| [✔] #02 | Nadie quiere hacer horas extra                    | [Show][c02-readme] | [Solution][c02-solution] |      🟢       |  131  |
-| [✔] #03 | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Show][c03-readme] | [Solution][c03-solution] |      🟢       |  135  |
-| [✔] #04 | Una caja dentro de otra caja y otra...            | [Show][c04-readme] | [Solution][c04-solution] |      🟠       |  156  |
-| [✔] #05 | Optimizando viajes de Santa                       | [Show][c05-readme] | [Solution][c05-solution] |      🔴       |  200  |
-| [✔] #06 | Creando adornos navideños                         | [Show][c06-readme] | [Solution][c06-solution] |      🟠       |  200  |
-| [✔] #07 | Haciendo inventario de regalos                    | [Show][c07-readme] | [Solution][c07-solution] |      🟢       |  400  |
-| [✔] #08 | ¡Necesitamos un mecánico!                         | [Show][c08-readme] | [Solution][c08-solution] |      🟠       |  360  |
-| [✔] #09 | Las locas luces de Navidad                        | [Show][c09-readme] | [Solution][c09-solution] |      🟢       |  300  |
-| [✔] #10 | El salto del trineo de Papá Noel                  | [Show][c10-readme] | [Solution][c10-solution] |      🟠       |  260  |
-| [✔] #11 | Papá Noel es Scrum Master                         | [Show][c11-readme] | [Solution][c11-solution] |      🔴       |  360  |
-| [✔] #12 | Trineos eléctricos, ¡guau!                        | [Show][c12-readme] | [Solution][c12-solution] |      🟠       |  400  |
-| [✔] #13 | Backup de los archivos de Papá Noel               | [Show][c13-readme] | [Solution][c13-solution] |      🟢       |  300  |
-| [✔] #14 | El mejor camino                                   | [Show][c14-readme] | [Solution][c14-solution] |      🟠       |  400  |
-| [✔] #15 | Decorando el árbol de Navidad                     | [Show][c15-readme] | [Solution][c15-solution] |      🟠       |  300  |
-| [✔] #16 | Arreglando las cartas de Papá Noe                 | [Show][c16-readme] | [Solution][c16-solution] |      🔴       |  300  |
-| [✔] #17 | Llevando los regalos en sacos                     | [Show][c17-readme] | [Solution][c17-solution] |      🟠       |  260  |
-| [✔] #18 | ¡Nos quedamos sin tinta!                          | [Show][c18-readme] | [Solution][c18-solution] |      🟢       |  300  |
-| [✔] #19 | Ordenando los regalos                             | [Show][c19-readme] | [Solution][c19-solution] |      🟢       |  400  |
-| [✔] #20 | Más viajes retadores                              | [Show][c20-readme] | [Solution][c20-solution] |      🔴       |  200  |
-| [✔] #21 | Creando la tabla de regalos                       | [Show][c21-readme] | [Solution][c21-solution] |      🟠       |  300  |
-| [✔] #22 | La iluminación en sintonía                        | [Show][c22-readme] | [Solution][c22-solution] |      🟢       |  500  |
-| [✔] #23 | Compilador de Papá Noel                           | [Show][c23-readme] | [Solution][c23-solution] |      🔴       |  160  |
-| [✔] #24 | El último reto es un laberinto                    | [Show][c24-readme] | [Solution][c24-solution] |      🔴       |  3000 |
+| :------: | :-----------------------------------------------: | :----------------: | :----------------------: | :------------: | :---: |
+| [✔] #01 | ¡Automatizando envolver regalos de navidad!       | [Show][c01-readme] | [Solution][c01-solution] |       🟢       |  132  |
+| [✔] #02 | Nadie quiere hacer horas extra                    | [Show][c02-readme] | [Solution][c02-solution] |       🟢       |  131  |
+| [✔] #03 | ¿Cuántas cajas de regalos puede llevar Papá Noel? | [Show][c03-readme] | [Solution][c03-solution] |       🟢       |  135  |
+| [✔] #04 | Una caja dentro de otra caja y otra...            | [Show][c04-readme] | [Solution][c04-solution] |       🟠       |  156  |
+| [✔] #05 | Optimizando viajes de Santa                       | [Show][c05-readme] | [Solution][c05-solution] |       🔴       |  200  |
+| [✔] #06 | Creando adornos navideños                         | [Show][c06-readme] | [Solution][c06-solution] |       🟠       |  200  |
+| [✔] #07 | Haciendo inventario de regalos                    | [Show][c07-readme] | [Solution][c07-solution] |       🟢       |  400  |
+| [✔] #08 | ¡Necesitamos un mecánico!                         | [Show][c08-readme] | [Solution][c08-solution] |       🟠       |  360  |
+| [✔] #09 | Las locas luces de Navidad                        | [Show][c09-readme] | [Solution][c09-solution] |       🟢       |  300  |
+| [✔] #10 | El salto del trineo de Papá Noel                  | [Show][c10-readme] | [Solution][c10-solution] |       🟠       |  260  |
+| [✔] #11 | Papá Noel es Scrum Master                         | [Show][c11-readme] | [Solution][c11-solution] |       🔴       |  360  |
+| [✔] #12 | Trineos eléctricos, ¡guau!                        | [Show][c12-readme] | [Solution][c12-solution] |       🟠       |  400  |
+| [✔] #13 | Backup de los archivos de Papá Noel               | [Show][c13-readme] | [Solution][c13-solution] |       🟢       |  300  |
+| [✔] #14 | El mejor camino                                   | [Show][c14-readme] | [Solution][c14-solution] |       🟠       |  400  |
+| [✔] #15 | Decorando el árbol de Navidad                     | [Show][c15-readme] | [Solution][c15-solution] |       🟠       |  300  |
+| [✔] #16 | Arreglando las cartas de Papá Noe                 | [Show][c16-readme] | [Solution][c16-solution] |       🔴       |  300  |
+| [✔] #17 | Llevando los regalos en sacos                     | [Show][c17-readme] | [Solution][c17-solution] |       🟠       |  260  |
+| [✔] #18 | ¡Nos quedamos sin tinta!                          | [Show][c18-readme] | [Solution][c18-solution] |       🟢       |  300  |
+| [✔] #19 | Ordenando los regalos                             | [Show][c19-readme] | [Solution][c19-solution] |       🟢       |  400  |
+| [✔] #20 | Más viajes retadores                              | [Show][c20-readme] | [Solution][c20-solution] |       🔴       |  200  |
+| [✔] #21 | Creando la tabla de regalos                       | [Show][c21-readme] | [Solution][c21-solution] |       🟠       |  300  |
+| [✔] #22 | La iluminación en sintonía                        | [Show][c22-readme] | [Solution][c22-solution] |       🟢       |  500  |
+| [✔] #23 | Compilador de Papá Noel                           | [Show][c23-readme] | [Solution][c23-solution] |       🔴       |  160  |
+| [✔] #24 | El último reto es un laberinto                    | [Show][c24-readme] | [Solution][c24-solution] |       🔴       |  3000 |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
