@@ -2,7 +2,7 @@
 ## **24 días 24 retos de programación**
 
 
-![AdventJs2022](https://res.cloudinary.com/caraje/image/upload/v1669984572/cof4k8cttt06cjpf42ys.png)
+![AdventJs2022](https://imgur.com/3UnaWEm.png)
 
 ## **🎮 Retos realizados**
 
