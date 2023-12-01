@@ -9,7 +9,7 @@
 <details open>
 <summary>Show / Hide</summary>
 
-| Numbe     | Challenge                 | Description        | Solution                 | Difficulty[^1] | Score |
+| Number    | Challenge                 | Description        | Solution                 | Difficulty[^1] | Score |
 | --------: | :----------------------:  | :-----------------:| :----------------------: | :------------: | :---: |
 | [✔] #01  | ¡Primer regalo repetido!  | [Show][c01-readme] | [Solution][c01-solution] |       🟢       |  330  |
 | [-] #02  |                           |                    |                          |                |       |
