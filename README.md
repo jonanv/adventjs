@@ -1,1 +1,78 @@
-# Advent JS
+# **🎅🎄 AdventJS**
+## **24 días 24 retos de programación**
+
+# [![adventJS](https://img.shields.io/badge/adventJS-fbbf24?style=flat-square&logo=JavaScript&logoColor=000000)](https://adventjs.dev) [![#adventjs hashtag](https://img.shields.io/badge/-%23adventJS-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/search?q=%23adventjs&src=recent_search_click&f=live)
+
+
+## **Sobre AdventJs**
+
+### **¿Donde puedo participar?**
+
+Si estas interesado participar, cada dia de Diciembre se desbloquea un nuevo reto a las 18h *(Hora Peninsular de España)*
+Puedes acceder a los retos en **[Adventjs.dev](https://adventjs.dev/es)**
+Y tambien puedes colaborar con la comunidad en el **[Discord](https://t.co/XruHkD62j3)** de **[Midudev](https://twitter.com/midudev)**
+
+
+### **¿Que es AdventJs?**
+
+AdventJs es una iniciativa creada por el creador de contenido sobre Desarrollo Web **[Midudev](https://twitter.com/midudev)**, donde durante 24 días se revelaran retos diarios para que lo resuelvan la comunidad. 
+
+Estos retos pueden ser resueltos usando tanto `Javascript` como `Typescript` y tendrán una dificultad que ira variando según el día.
+
+### **¿De qué trata este repositorio?**
+
+Este repositorio esta creado para **recopilar mis soluciones** a cada uno de los retos mientras dure esta iniciativa, con el fin de ayudar a otros miembros de la comunidad o bien para recibir **feedback** sobre mis propias soluciones por parte de otros miembros de la comunidad.
+
+### **¿Son estas soluciones las mejores posibles a cada uno de los retos?**
+
+En absoluto, este es solo mi aporte como alguien que está iniciando su carrera en la programación, por lo que lo más posible es que las soluciones no sean las más optimas a cada reto.
+
+### **¿Dónde encontrar más sobre la comunidad?**
+
+Puedes seguir a **midudev** en **[Twitter](https://twitter.com/midudev)** También puedes ver sus directos en **[Twitch](https://www.twitch.tv/midudev)** *(L-J a las 20h horarios habituales, pueden cambiar)* o en su canal de **[YouTube](https://www.youtube.com/c/midudev)**
+Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
+
+## **🎮 Advent JS'**
+
+<details open>
+<summary>Show / Hide</summary>
+
+| #                         | Challenge            |
+| :-----------------------: | :------------------- |
+| [✔] [#01][ajs2021-readme] | Advent JS 2021       |
+| [✔] [#02][ajs2022-readme] | Advent JS 2022       |
+| [✔] [#03][ajs2023-readme] | Advent JS 2023       |
+
+
+
+[ajs2021-readme]: ./2021/README.md
+[ajs2022-readme]: ./2022/README.md
+[ajs2023-readme]: ./2023/README.md
+</details>
+
+
+# **📝 Instalación**
+
+Instala Jest para las pruebas con:
+
+```bash
+npm install
+```
+
+## **🧪 Tests**
+
+Puedes comprobar los retos usando en tu terminal el comando `npm run jest`.
+Si quieres probar tus propios scripts, tienes dos opciones:
+
+1. Cambiar de nombre el archivo `index.js` y crear tu propio `index.js`
+2. Comentar la función en el archivo `index.js` y crear tu propia función
+
+```bash
+npm run test # Para correr todos los test de todos los retos
+
+npm run test:yyyy # Para correr todos los test de todos los retos de un año es especifico, por ejemplo
+npm run test:2022 # Para correr todos los test de todos los retos del año 2022
+
+npm run test:n:yyyy # n siendo el numero del reto y yyyy el año, por ejemplo
+npm run test:1:2022 # Correra el test del reto 1 del año 2022
+```
