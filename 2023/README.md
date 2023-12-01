@@ -1,5 +1,5 @@
 # **🎁🧦 AdventJS**
-## **24 días 24 retos de programación**
+## **25 días de retos de programación con sorteo**
 
 
 ![AdventJs2023](https://imgur.com/V5JKvkv.png)
@@ -35,6 +35,7 @@
 | [-] #22  |                           |                    |                          |                |       |
 | [-] #23  |                           |                    |                          |                |       |
 | [-] #24  |                           |                    |                          |                |       |
+| [-] #25  |                           |                    |                          |                |       |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
