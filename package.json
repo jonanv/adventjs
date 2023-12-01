@@ -7,6 +7,7 @@
     "test": "jest",
 
     "test:2021": "jest -i 2021/",
+    "test:1:2021": "jest -i 2021/challenge01/challenge01.test.js",
 
     "test:2022": "jest -i 2022/",
     "test:1:2022": "jest -i 2022/challenge01/challenge01.test.js",
