@@ -23,7 +23,6 @@ const modified = 'abcde'
 findNaughtyStep(original, modified) // ''
 ```
 
-[!WARNING]
 A tener en cuenta:
 
 - Siempre habrá un paso de diferencia o ninguno.
