@@ -11,8 +11,15 @@ function findFirstRepeated(gifts) {
 
 // score: 330
 // function findFirstRepeated(gifts) {
-//     const repeated = gifts.filter((gift, i) => gifts.indexOf(gift) !== i)
-//     return repeated.length > 0 ? repeated[0] : -1
+//     const repeated = gifts.filter((gift, i) => gifts.indexOf(gift) !== i);
+//     return repeated.length > 0 ? repeated[0] : -1;
+// }
+
+// score: 340
+// function findFirstRepeated(gifts) {
+//     return gifts.find((elem, index) => {
+//         return (gifts.slice(0, index).includes(elem));
+//     }) ?? -1;
 // }
 
 module.exports = findFirstRepeated;
