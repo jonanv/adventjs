@@ -11,9 +11,9 @@
 
 | Number    | Challenge                            | Description         | Solution                 | Difficulty[^1] | Score |
 | --------: | :----------------------------------: | :-----------------: | :----------------------: | :------------: | :---: |
-| [✅] #01  | 🎁¡Primer regalo repetido!          | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  330  |
+| [✅] #01  | 🎁¡Primer regalo repetido!          | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  340  |
 | [✅] #02  | 🏭Ponemos en marcha la fábrica      | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  280  |
-| [✅] #03  | 😏El elfo travieso                  | [Show][c02-readme]  | [Solution][c03-solution] |       🟢       |  270  |
+| [✅] #03  | 😏El elfo travieso                  | [Show][c02-readme]  | [Solution][c03-solution] |       🟢       |  360  |
 | [✅] #04  | 😵‍💫Dale la vuelta a los paréntesis | [Show][c04-readme]  | [Solution][c04-solution] |       🟠      |  280  |
 | [-] #05  |                                       |                     |                          |                |       |
 | [-] #06  |                                       |                     |                          |                |       |
