@@ -9,11 +9,11 @@
 <details open>
 <summary>Show / Hide</summary>
 
-| Number    | Challenge                     | Description         | Solution                 | Difficulty[^1] | Score |
-| --------: | :--------------------------:  | :-----------------: | :----------------------: | :------------: | :---: |
-| [✅] #01  | ¡Primer regalo repetido!     | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  330  |
-| [✅] #02  | Ponemos en marcha la fábrica | [Show][c02-readme]  | [Solution][c01-solution] |       🟢       |  250  |
-| [-] #03  |                               |                     |                          |                |       |
+| Number    | Challenge                       | Description         | Solution                 | Difficulty[^1] | Score |
+| --------: | :-----------------------------: | :-----------------: | :----------------------: | :------------: | :---: |
+| [✅] #01  | 🎁¡Primer regalo repetido!     | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  330  |
+| [✅] #02  | 🏭Ponemos en marcha la fábrica | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  250  |
+| [✅] #03  | 😏El elfo travieso             | [Show][c02-readme]  | [Solution][c03-solution] |       🟢       |  270  |
 | [-] #04  |                               |                     |                          |                |       |
 | [-] #05  |                               |                     |                          |                |       |
 | [-] #06  |                               |                     |                          |                |       |
@@ -41,6 +41,10 @@
 
 [c01-readme]: ./challenge01/README.md
 [c01-solution]: ./challenge01/index.js
+[c02-readme]: ./challenge02/README.md
+[c02-solution]: ./challenge02/index.js
+[c03-readme]: ./challenge03/README.md
+[c03-solution]: ./challenge03/index.js
 </details>
 
 
