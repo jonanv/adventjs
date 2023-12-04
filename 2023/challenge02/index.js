@@ -19,6 +19,7 @@
 //     return gifts.filter(gift => !regexp.test(gift));
 // }
 
+// score: 280
 function manufacture(gifts, materials) {
     return gifts.filter(g => g.split('').every(m => materials.includes(m)));
 }
