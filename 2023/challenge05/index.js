@@ -1,6 +1,18 @@
+// score: 160
 function cyberReindeer(road, time) {
-    // Code here
-    return [];
+  let moves = [road];
+  const _road = ("." + road.slice(1)).replace(/\|/g, "*");
+  let a = 0;
+
+  for(let i = 1; i < time; i++) {
+    if(i == 5) road = road.replace(/\|/g, "*");
+    const newRoad = road.replace(/S[\.\*]/, `${_road[a]}S`);
+    if(newRoad != road) a++;
+    road = newRoad;
+    moves.push(road);
+  }
+
+  return moves;
 }
 
 module.exports = cyberReindeer;
