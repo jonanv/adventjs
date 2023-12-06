@@ -7,7 +7,7 @@ Los elfos están catalogando los renos de Santa 🦌 según la distancia que pue
 
 Para ello tienen una cadena de texto movements donde cada caracter representa la dirección del movimiento del reno:
 
-```
+```js
 > = Avanza a la derecha
 < = Avanza a la izquierda
 * = Puede avanzar o retroceder
