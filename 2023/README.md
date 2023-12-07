@@ -9,14 +9,14 @@
 <details open>
 <summary>Show / Hide</summary>
 
-| Number    | Challenge                            | Description         | Solution                 | Difficulty[^1] | Score |
-| --------: | :----------------------------------: | :-----------------: | :----------------------: | :------------: | :---: |
-| [✅] #01  | 🎁¡Primer regalo repetido!          | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  340  |
-| [✅] #02  | 🏭Ponemos en marcha la fábrica      | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  280  |
-| [✅] #03  | 😏El elfo travieso                  | [Show][c02-readme]  | [Solution][c03-solution] |       🟢       |  360  |
-| [✅] #04  | 😵‍💫Dale la vuelta a los paréntesis | [Show][c04-readme]  | [Solution][c04-solution] |       🟠      |  280  |
-| [-] #05  |                                       |                     |                          |                |       |
-| [-] #06  |                                       |                     |                          |                |       |
+| Number    | Challenge                             | Description         | Solution                 | Difficulty[^1] | Score |
+| --------: | :-----------------------------------: | :-----------------: | :----------------------: | :------------: | :---: |
+| [✅] #01  | 🎁 ¡Primer regalo repetido!          | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  340  |
+| [✅] #02  | 🏭 Ponemos en marcha la fábrica      | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  280  |
+| [✅] #03  | 😏 El elfo travieso                  | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  360  |
+| [✅] #04  | 😵‍💫 Dale la vuelta a los paréntesis | [Show][c04-readme]  | [Solution][c04-solution] |       🟠      |  280  |
+| [✅] #05  | 🛷 El CyberTruck de Santa            | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |       |
+| [✅] #06  | 🦌 Los renos a prueba                | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |       |
 | [-] #07  |                                       |                     |                          |                |       |
 | [-] #08  |                                       |                     |                          |                |       |
 | [-] #09  |                                       |                     |                          |                |       |
@@ -45,8 +45,12 @@
 [c02-solution]: ./challenge02/index.js
 [c03-readme]: ./challenge03/README.md
 [c03-solution]: ./challenge03/index.js
-[c04-readme]: ./challenge03/README.md
-[c04-solution]: ./challenge03/index.js
+[c04-readme]: ./challenge04/README.md
+[c04-solution]: ./challenge04/index.js
+[c05-readme]: ./challenge05/README.md
+[c05-solution]: ./challenge05/index.js
+[c06-readme]: ./challenge06/README.md
+[c06-solution]: ./challenge06/index.js
 </details>
 
 
