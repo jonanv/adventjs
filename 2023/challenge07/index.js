@@ -1,6 +1,5 @@
 // score: 270
 function drawGift(size, symbol) {
-    let giftSize = size - 2;
     let line = '#';
     let giftTop = [];
     let giftMedium = [];
@@ -12,21 +11,21 @@ function drawGift(size, symbol) {
         return line + '\n';
     }
 
-    giftMedium = [line.repeat(size) + symbol.repeat(giftSize) + line];
+    giftMedium = [line.repeat(size) + symbol.repeat(size - 2) + line];
     giftButtom = [];
     top = [' '.repeat(size - 1) + line.repeat(size)];
     buttom = [line.repeat(size)];
 
-    for (const index of [...Array(giftSize).keys()]) {
+    for (const index of [...Array(size - 2).keys()]) {
         giftTop[index] = ' '.repeat(size - index - 2)
             + line.repeat(1)
-            + symbol.repeat(giftSize)
+            + symbol.repeat(size - 2)
             + line.repeat(1)
             + symbol.repeat(index)
             + line.repeat(1) + '\n';
         
         giftButtom[index] = line.repeat(1)
-            + symbol.repeat(giftSize)
+            + symbol.repeat(size - 2)
             + line.repeat(1)
             + symbol.repeat(index)
             + line.repeat(1) + '\n';
