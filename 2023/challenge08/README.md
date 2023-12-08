@@ -9,7 +9,7 @@ El formato de entrada es especial, ya que indica el número de regalos y el tipo
 
 Los elfos tienen un `sistema especial` para organizar los regalos:
 
-- Cada 10 regalos del mismo tipo se empaquetan en una caja, representada por `{x}`. Por ejemplo, 20 regalos tipo a se empaquetan en 2 cajas así: `{a}{a}`.
+- Cada 10 regalos del mismo tipo se empaquetan en una caja, representada por `{x}`. Por ejemplo, 20 regalos tipo `a` se empaquetan en 2 cajas así: `{a}{a}`.
 - Cada 5 cajas se apilan en un palé, representado por `[x]`. Por ejemplo, 10 cajas de `a` se apilan en 2 palés de esta manera: `[a][a]`
 - Cualquier regalo adicional se coloca en una bolsa, representada por `()` y se colocan todas dentro. Por ejemplo 4 regalos de `b` se colocan en una bolsa así `(bbbb)`
 
@@ -28,4 +28,5 @@ console.log(result1)
 
   
   11b: 11 regalos tipo 'b' se empaquetarían en 1 caja y sobraría 1 regalo, resultando en 1 caja suelta {b} y una bolsa con 1 regalo (b)
+*/
 ```
