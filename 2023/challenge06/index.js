@@ -13,12 +13,12 @@ function maxDistance(movements) {
 }
 
 // score: 390
-function maxDistance(movements) {
-    let leftRight = movements.replaceAll('*', '');
-    let left = leftRight.replaceAll('<', '');
-    let right = leftRight.replaceAll('>', '');
-    return movements.length - 2 * Math.min(left.length, right.length);
-}
+// function maxDistance(movements) {
+//     let leftRight = movements.replaceAll('*', '');
+//     let left = leftRight.replaceAll('<', '');
+//     let right = leftRight.replaceAll('>', '');
+//     return movements.length - 2 * Math.min(left.length, right.length);
+// }
 
 // score: 370
 // function maxDistance(movements) {
