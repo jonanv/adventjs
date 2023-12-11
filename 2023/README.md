@@ -11,31 +11,31 @@
 
 | Number    | Challenge                             | Description         | Solution                 | Difficulty[^1] | Score |
 | --------: | :-----------------------------------: | :-----------------: | :----------------------: | :------------: | :---: |
-| [✅] #01  | 🎁 ¡Primer regalo repetido!          | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  340  |
+| [✅] #01  | 🎁 ¡Primer regalo repetido!           | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  340  |
 | [✅] #02  | 🏭 Ponemos en marcha la fábrica      | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  280  |
 | [✅] #03  | 😏 El elfo travieso                  | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  360  |
-| [✅] #04  | 😵‍💫 Dale la vuelta a los paréntesis | [Show][c04-readme]  | [Solution][c04-solution] |       🟠      |  280  |
-| [✅] #05  | 🛷 El CyberTruck de Santa            | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |       |
-| [✅] #06  | 🦌 Los renos a prueba                | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |       |
-| [-] #07  |                                       |                     |                          |                |       |
-| [-] #08  |                                       |                     |                          |                |       |
-| [-] #09  |                                       |                     |                          |                |       |
-| [-] #10  |                                       |                     |                          |                |       |
-| [-] #11  |                                       |                     |                          |                |       |
-| [-] #12  |                                       |                     |                          |                |       |
-| [-] #13  |                                       |                     |                          |                |       |
-| [-] #14  |                                       |                     |                          |                |       |
-| [-] #15  |                                       |                     |                          |                |       |
-| [-] #16  |                                       |                     |                          |                |       |
-| [-] #17  |                                       |                     |                          |                |       |
-| [-] #18  |                                       |                     |                          |                |       |
-| [-] #19  |                                       |                     |                          |                |       |
-| [-] #20  |                                       |                     |                          |                |       |
-| [-] #21  |                                       |                     |                          |                |       |
-| [-] #22  |                                       |                     |                          |                |       |
-| [-] #23  |                                       |                     |                          |                |       |
-| [-] #24  |                                       |                     |                          |                |       |
-| [-] #25  |                                       |                     |                          |                |       |
+| [✅] #04  | 😵‍💫 Dale la vuelta a los paréntesis | [Show][c04-readme]  | [Solution][c04-solution] |       🟠       |  280  |
+| [✅] #05  | 🛷 El CyberTruck de Santa            | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |  160  |
+| [✅] #06  | 🦌 Los renos a prueba                | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |  390  |
+| [✅] #07  | 📦 Las cajas en 3D                   | [Show][c07-readme]  | [Solution][c07-solution] |       🟢       |  290  |
+| [✅] #08  | 🏬 Ordenando el almacén              | [Show][c08-readme]  | [Solution][c08-solution] |       🟠       |  290  |
+| [✅] #09  | 🚦 Alterna las luces                  | [Show][c09-readme]  | [Solution][c09-solution] |       🟢       |       |
+| [✅] #10  | 🎄 Crea tu propio árbol de navidad    | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |       |
+| [✅] #11  | 📖 Los elfos estudiosos              | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |       |
+| [-] #12  |                                        |                     |                          |                 |       |
+| [-] #13  |                                        |                     |                          |                 |       |
+| [-] #14  |                                        |                     |                          |                 |       |
+| [-] #15  |                                        |                     |                          |                 |       |
+| [-] #16  |                                        |                     |                          |                 |       |
+| [-] #17  |                                        |                     |                          |                 |       |
+| [-] #18  |                                        |                     |                          |                 |       |
+| [-] #19  |                                        |                     |                          |                 |       |
+| [-] #20  |                                        |                     |                          |                 |       |
+| [-] #21  |                                        |                     |                          |                 |       |
+| [-] #22  |                                        |                     |                          |                 |       |
+| [-] #23  |                                        |                     |                          |                 |       |
+| [-] #24  |                                        |                     |                          |                 |       |
+| [-] #25  |                                        |                     |                          |                 |       |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
