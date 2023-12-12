@@ -1,22 +1,12 @@
-// score: 
+// score: 160
 function checkIsValidCopy(original, copy) {
     let characters = ['#', '+', ':', '.', ' '];
 
-    for (const [i, v] of Object.entries(original)) {
+    for (let [i, v] of Object.entries(original)) {
         let letters = [...characters, v, v.toLowerCase()];
-
         let includes = letters.includes(copy[i]);
         let isSpace = (v === ' ' & copy[i] !== ' ') ? true : false;
-        // console.log(v, copy[i], includes, isSpace);
         if (!includes | isSpace) return false;
-
-        // characters = new RegExp(/([#+:.\s])+/g);
-        // let c = copy[i].match(characters) ? true : false;
-        // console.log(v, copy[i], c);
-        // console.log(v, copy[i], v.toLowerCase() === copy[i], c, v === ' ', copy[i] === ' ');
-        // if (!(v.toLowerCase() === copy[i]
-        //     | c
-        //     | (v === ' ' & copy[i] === ' '))) return false;
     }
     return true;
 }
