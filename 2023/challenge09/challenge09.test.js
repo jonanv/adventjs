@@ -31,3 +31,15 @@ test('Test #5 - adjustLights(["🔴", "🔴", "🔴"])', () => {
         adjustLights(["🔴", "🔴", "🔴"])
     ).toStrictEqual(1);
 });
+
+test("Test #6 - adjustLights(['🟢', '🔴', '🔴', '🟢', '🔴'])", () => {
+    expect(
+        adjustLights(['🟢', '🔴', '🔴', '🟢', '🔴'])
+    ).toStrictEqual(2);
+});
+
+test("Test #7 - adjustLights(['🔴', '🔴', '🟢', '🔴', '🟢'])", () => {
+    expect(
+        adjustLights(['🔴', '🔴', '🟢', '🔴', '🟢'])
+    ).toStrictEqual(1);
+});

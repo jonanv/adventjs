@@ -7,7 +7,7 @@ function adjustLights(lights) {
     for (let i = 0; i < lights.length; i+=2) {
         if (firstLight !== lights[i]) changeLight++;
     }
-    for (j = 1; j < lights.length; j+=2) {
+    for (let j = 1; j < lights.length; j+=2) {
         if (secondLight !== lights[j]) changeLight++;
     }
     return changeLight;
@@ -75,20 +75,21 @@ function adjustLights(lights) {
 //         count1 += rev == (light == init);
 //         rev = !rev;
 //     }
-
 //     rev = true;
 //     for (const light of lights) {
 //         count2 += rev == (light == init);
 //         rev = !rev;
 //     }
-
 //     count1 = Math.min(count1, count2);
 //     return count1;
 // }
 
 module.exports = adjustLights;
 
-// let response = adjustLights(['🟢', '🔴', '🟢', '🟢', '🟢']);
-let response = adjustLights(["🔴", "🔴", "🟢", "🟢", "🔴"]);
-console.log(response);
+console.log(adjustLights(['🟢', '🔴', '🟢', '🟢', '🟢'])); // 1
+console.log(adjustLights(["🔴", "🔴", "🟢", "🟢", "🔴"])); // 2
+console.log(adjustLights(['🟢', '🔴', '🟢', '🔴', '🟢'])); // 0
+console.log(adjustLights(['🟢', '🔴', '🔴', '🟢', '🔴'])); // 2
+console.log(adjustLights(['🔴', '🔴', '🟢', '🔴', '🟢'])); // 1
+
 // -> 1 (cambias la cuarta luz a 🔴)
