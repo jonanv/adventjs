@@ -20,8 +20,14 @@
 // }
 
 // score: 280
+// function manufacture(gifts, materials) {
+//     return gifts.filter(g => g.split('').every(m => materials.includes(m)));
+// }
+
+// score: 290
 function manufacture(gifts, materials) {
-    return gifts.filter(g => g.split('').every(m => materials.includes(m)));
+    const regex = new RegExp(`^[${materials}]+${"$"}`);
+    return gifts.filter(regex.test.bind(regex));
 }
 
 module.exports = manufacture;
