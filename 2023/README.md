@@ -12,17 +12,17 @@
 | Number    | Challenge                             | Description         | Solution                 | Difficulty[^1] | Score |
 | --------: | :-----------------------------------: | :-----------------: | :----------------------: | :------------: | :---: |
 | [✅] #01  | 🎁 ¡Primer regalo repetido!           | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  340  |
-| [✅] #02  | 🏭 Ponemos en marcha la fábrica      | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  280  |
-| [✅] #03  | 😏 El elfo travieso                  | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  360  |
+| [✅] #02  | 🏭 Ponemos en marcha la fábrica      | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  290  |
+| [✅] #03  | 😏 El elfo travieso                  | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  370  |
 | [✅] #04  | 😵‍💫 Dale la vuelta a los paréntesis | [Show][c04-readme]  | [Solution][c04-solution] |       🟠       |  280  |
-| [✅] #05  | 🛷 El CyberTruck de Santa            | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |  160  |
+| [✅] #05  | 🛷 El CyberTruck de Santa            | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |  170  |
 | [✅] #06  | 🦌 Los renos a prueba                | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |  390  |
 | [✅] #07  | 📦 Las cajas en 3D                   | [Show][c07-readme]  | [Solution][c07-solution] |       🟢       |  290  |
 | [✅] #08  | 🏬 Ordenando el almacén              | [Show][c08-readme]  | [Solution][c08-solution] |       🟠       |  290  |
-| [✅] #09  | 🚦 Alterna las luces                  | [Show][c09-readme]  | [Solution][c09-solution] |       🟢       |       |
-| [✅] #10  | 🎄 Crea tu propio árbol de navidad    | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |       |
-| [✅] #11  | 📖 Los elfos estudiosos              | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |       |
-| [-] #12  |                                        |                     |                          |                 |       |
+| [✅] #09  | 🚦 Alterna las luces                  | [Show][c09-readme]  | [Solution][c09-solution] |       🟢       |  390  |
+| [✅] #10  | 🎄 Crea tu propio árbol de navidad    | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |  280  |
+| [✅] #11  | 📖 Los elfos estudiosos              | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |  180  |
+| [✅] #12  | 📸 ¿Es una copia válida?             | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  270  |
 | [-] #13  |                                        |                     |                          |                 |       |
 | [-] #14  |                                        |                     |                          |                 |       |
 | [-] #15  |                                        |                     |                          |                 |       |
@@ -51,6 +51,18 @@
 [c05-solution]: ./challenge05/index.js
 [c06-readme]: ./challenge06/README.md
 [c06-solution]: ./challenge06/index.js
+[c07-readme]: ./challenge07/README.md
+[c07-solution]: ./challenge07/index.js
+[c08-readme]: ./challenge08/README.md
+[c08-solution]: ./challenge08/index.js
+[c09-readme]: ./challenge09/README.md
+[c09-solution]: ./challenge09/index.js
+[c10-readme]: ./challenge10/README.md
+[c10-solution]: ./challenge10/index.js
+[c11-readme]: ./challenge11/README.md
+[c11-solution]: ./challenge11/index.js
+[c12-readme]: ./challenge12/README.md
+[c12-solution]: ./challenge12/index.js
 </details>
 
 
