@@ -43,7 +43,8 @@
     "test:8:2023": "jest -i 2023/challenge08/challenge08.test.js",
     "test:9:2023": "jest -i 2023/challenge09/challenge09.test.js",
     "test:10:2023": "jest -i 2023/challenge10/challenge10.test.js",
-    "test:11:2023": "jest -i 2023/challenge11/challenge11.test.js"
+    "test:11:2023": "jest -i 2023/challenge11/challenge11.test.js",
+    "test:12:2023": "jest -i 2023/challenge12/challenge12.test.js"
   },
   "repository": {
     "type": "git",
