@@ -23,8 +23,8 @@
 | [✅] #10  | 🎄 Crea tu propio árbol de navidad    | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |  280  |
 | [✅] #11  | 📖 Los elfos estudiosos              | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |  180  |
 | [✅] #12  | 📸 ¿Es una copia válida?             | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  270  |
-| [-] #13  |                                        |                     |                          |                 |       |
-| [-] #14  |                                        |                     |                          |                 |       |
+| [✅] #13  | ⌚️ Calculando el tiempo              | [Show][c13-readme]  | [Solution][c13-solution] |       🟢       |  290  |
+| [✅] #14  | 🚨 Evita la alarma                   | [Show][c14-readme]  | [Solution][c14-solution] |       🟠       |  360   |
 | [-] #15  |                                        |                     |                          |                 |       |
 | [-] #16  |                                        |                     |                          |                 |       |
 | [-] #17  |                                        |                     |                          |                 |       |
@@ -63,6 +63,10 @@
 [c11-solution]: ./challenge11/index.js
 [c12-readme]: ./challenge12/README.md
 [c12-solution]: ./challenge12/index.js
+[c13-readme]: ./challenge13/README.md
+[c13-solution]: ./challenge13/index.js
+[c14-readme]: ./challenge14/README.md
+[c14-solution]: ./challenge14/index.js
 </details>
 
 
