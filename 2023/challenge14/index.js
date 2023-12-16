@@ -6,7 +6,7 @@ function maxGifts(houses) {
     for (let i = 0; i < houses.length; i++) {
         console.log(currMax, prevMax);
         let newMax = currMax > prevMax + houses[i]
-            ? currMax 
+            ? currMax
             : prevMax + houses[i];
         prevMax = currMax;
         currMax = newMax;
@@ -34,6 +34,20 @@ function maxGifts(houses) {
 //         dp.push(Math.max(dp[dp.length - 1], dp[dp.length - 2] + house))
 //     }
 //     return dp[dp.length - 1];
+// }
+
+// score: 290
+// function maxGifts(houses) {
+//     let incl = 0;
+//     let excl = 0;
+//     let excl_new;
+
+//     for (let house of houses) {
+//         excl_new = [excl, incl][+(incl > excl)];
+//         incl = excl + house;
+//         excl = excl_new;
+//     }
+//     return [excl, incl][+(incl > excl)];
 // }
 
 module.exports = maxGifts;
