@@ -62,27 +62,44 @@ function autonomousDrive(store, movements) {
 }
 
 // score: 170
-function autonomousDrive(store, movements) {
-    const row = store.findIndex(r => r.includes('!'));
-    const col = store[row].indexOf('!');
+// function autonomousDrive(store, movements) {
+//     const row = store.findIndex(r => r.includes('!'));
+//     const col = store[row].indexOf('!');
+//     store[row] = store[row].replace("!", ".");
+//     const m = {
+//         "L": [-1, 0],
+//         "R": [1, 0],
+//         "U": [0, -1],
+//         "D": [0, 1],
+//     }
+//     let x = col, y = row;
+//     for (const move of movements) {
+//         const [mx, my] = m[move];
+//         x += mx * +(store.at(y + my)?.at(x + mx) == '.');
+//         y += my * +(store.at(y + my)?.at(x + mx) == '.');
+//     }
+//     store[y] = store[y].substring(0, x) + '!' + store[y].substring(x + 1);
+//     return store;
+// }
 
-    store[row] = store[row].replace("!", ".");
+// score: 290
+// function autonomousDrive(store, movements) {
+//     const w = store[0].length;
+//     const mi = store.join('').indexOf('!');
+//     let si = (mi / w) | 0;
+//     let sj = mi % w;
+//     store[si] = store[si].substring(0, sj) + '.' + store[si].substring(sj + 1);
 
-    const m = {
-        "L": [-1, 0],
-        "R": [1, 0],
-        "U": [0, -1],
-        "D": [0, 1],
-    }
-    let x = col, y = row;
-    for (const move of movements) {
-        const [mx, my] = m[move];
-        x += mx * +(store.at(y + my)?.at(x + mx) == '.');
-        y += my * +(store.at(y + my)?.at(x + mx) == '.');
-    }
-    store[y] = store[y].substring(0, x) + '!' + store[y].substring(x + 1);
-    return store;
-}
+//     for (const movement of movements) {
+//         const nextI = si -(movement === 'U') + (movement === 'D');
+//         const nextJ = sj -(movement === 'L') + (movement === 'R');
+//         const canMove = +(store[nextI]?.[nextJ] === '.')
+//         si = [si, nextI][canMove];
+//         sj = [sj, nextJ][canMove];
+//     }
+//     store[si] = store[si].substring(0, sj) + '!' + store[si].substring(sj + 1);
+//     return store;
+// }
 
 module.exports = autonomousDrive;
 
