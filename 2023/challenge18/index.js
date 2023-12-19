@@ -104,7 +104,6 @@ function drawClock(time) {
 
     const display = [];
     const range = new Array(7).keys();
-    console.log(nums[time[0]][0]);
     for (const i of range) {
         display.push([
             nums[time[0]][i],
