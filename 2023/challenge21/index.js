@@ -1,25 +1,40 @@
 // score: 130
+// function findBalancedSegment(message) {
+//     const zeros = [0];
+//     const ones = [0];
+//     for (const bit of message) {
+//         zeros.push(zeros.at(-1) + +(bit === 0));
+//         ones.push(ones.at(-1) + +(bit === 1));
+//     }
+//     console.log(zeros, ones);
+//     const response = [];
+//     let max = 0;
+//     for (let i = 0; i < ones.length; i++) {
+//         for (let j = i + 1; j < ones.length; j++) {
+//             if (ones[j] - ones[i] === zeros[j] - zeros[i]
+//                 && ones[j] - ones[i] > max) {
+//                 response[0] = i;
+//                 response[1] = j - 1;
+//                 max = ones[j] - ones[i];
+//             }
+//         }
+//     }
+//     return response;
+// }
+
+// score: 230
 function findBalancedSegment(message) {
-    const zeros = [0];
-    const ones = [0];
-    for (const bit of message) {
-        zeros.push(zeros.at(-1) + +(bit === 0));
-        ones.push(ones.at(-1) + +(bit === 1));
-    }
-    console.log(zeros, ones);
-    const response = [];
-    let max = 0;
-    for (let i = 0; i < ones.length; i++) {
-        for (let j = i + 1; j < ones.length; j++) {
-            if (ones[j] - ones[i] === zeros[j] - zeros[i]
-                && ones[j] - ones[i] > max) {
-                response[0] = i;
-                response[1] = j - 1;
-                max = ones[j] - ones[i];
-            }
+    let actual = [0];
+    for (let i = 0; i < message.length; i++) {
+        let check_balance = message[i];
+        let cont = 1;
+        for (let j = i + 1; j < message.length; j++) {
+            check_balance += message[j];
+            if (++cont / check_balance === 2 && cont > actual[0])
+                actual = [cont, i, j];
         }
     }
-    return response;
+    return actual.slice(1);
 }
 
 module.exports = findBalancedSegment;
