@@ -9,7 +9,7 @@ test('Test #1 - Retorna un array', () => {
                 [8, null, 4]
             ])
         )
-    ).toStrictEquals(true);
+    ).toStrictEqual(true);
 });
 
 test('Test #2 - distributeGifts([[4, 5, 1],[6, null, 3],[8, null, 4]])', () => {
@@ -19,7 +19,7 @@ test('Test #2 - distributeGifts([[4, 5, 1],[6, null, 3],[8, null, 4]])', () => {
             [6, null, 3],
             [8, null, 4]
         ])
-    ).toStrictEquals(
+    ).toStrictEqual(
         [
             [5, 3, 3],
             [6, 5, 3],
@@ -34,7 +34,7 @@ test('Test #3 - distributeGifts([[2, null],[null, 3]])', () => {
             [2, null],
             [null, 3]
         ])
-    ).toStrictEquals(
+    ).toStrictEqual(
         [
             [2, 3],
             [3, 3]
@@ -48,7 +48,7 @@ test('Test #4 - distributeGifts([[2, 1, 1],[3, 4, null]])', () => {
             [2, 1, 1],
             [3, 4, null]
         ])
-    ).toStrictEquals(
+    ).toStrictEqual(
         [
             [2, 2, 1],
             [3, 3, 3]
@@ -62,7 +62,7 @@ test('Test #5 - distributeGifts([[null, 5],[3, null]])', () => {
             [null, 5],
             [3, null]
         ])
-    ).toStrictEquals(
+    ).toStrictEqual(
         [
             [4, 5],
             [3, 4]
@@ -77,7 +77,7 @@ test('Test #6 - distributeGifts([[1, 2, 3],[4, 5, 6],[7, 8, 9]])', () => {
             [4, 5, 6],
             [7, 8, 9]
         ])
-    ).toStrictEquals(
+    ).toStrictEqual(
         [
             [2, 3, 4],
             [4, 5, 6],
@@ -92,7 +92,7 @@ test('Test #7 - distributeGifts([[null, 1, null, 1, null],[1, null, 1, null, 1],
             [null, 1, null, 1, null],
             [1, null, 1, null, 1],
         ])
-    ).toStrictEquals(
+    ).toStrictEqual(
         [
             [1, 1, 1, 1, 1],
             [1, 1, 1, 1, 1]
