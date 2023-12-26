@@ -1,4 +1,4 @@
-// score: 
+// score: 140
 function organizeChristmasDinner(dishes) {
   const ingredients = {};
 
