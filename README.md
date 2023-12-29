@@ -41,7 +41,7 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | :--------: | :-----------------------: | :------------------- |
 | [-] 2021   | [README][ajs2021-readme]  | Advent JS 2021       |
 | [✔] 2022   | [README][ajs2022-readme]  | Advent JS 2022       |
-| [-] 2023   | [README][ajs2023-readme]  | Advent JS 2023       |
+| [✔] 2023   | [README][ajs2023-readme]  | Advent JS 2023       |
 
 
 
