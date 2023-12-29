@@ -12,30 +12,30 @@
 | Number    | Challenge                             | Description         | Solution                 | Difficulty[^1] | Score |
 | --------: | :-----------------------------------: | :-----------------: | :----------------------: | :------------: | :---: |
 | [✅] #01  | 🎁 ¡Primer regalo repetido!           | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  340  |
-| [✅] #02  | 🏭 Ponemos en marcha la fábrica      | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  290  |
-| [✅] #03  | 😏 El elfo travieso                  | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  370  |
+| [✅] #02  | 🏭 Ponemos en marcha la fábrica       | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  290  |
+| [✅] #03  | 😏 El elfo travieso                   | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  370  |
 | [✅] #04  | 😵‍💫 Dale la vuelta a los paréntesis | [Show][c04-readme]  | [Solution][c04-solution] |       🟠       |  280  |
-| [✅] #05  | 🛷 El CyberTruck de Santa            | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |  170  |
-| [✅] #06  | 🦌 Los renos a prueba                | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |  390  |
-| [✅] #07  | 📦 Las cajas en 3D                   | [Show][c07-readme]  | [Solution][c07-solution] |       🟢       |  290  |
-| [✅] #08  | 🏬 Ordenando el almacén              | [Show][c08-readme]  | [Solution][c08-solution] |       🟠       |  290  |
-| [✅] #09  | 🚦 Alterna las luces                  | [Show][c09-readme]  | [Solution][c09-solution] |       🟢       |  390  |
+| [✅] #05  | 🛷 El CyberTruck de Santa             | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |  170  |
+| [✅] #06  | 🦌 Los renos a prueba                 | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |  390  |
+| [✅] #07  | 📦 Las cajas en 3D                    | [Show][c07-readme]  | [Solution][c07-solution] |       🟢       |  290  |
+| [✅] #08  | 🏬 Ordenando el almacén               | [Show][c08-readme]  | [Solution][c08-solution] |       🟠       |  290  |
+| [✅] #09  | 🚦 Alterna las luces                   | [Show][c09-readme]  | [Solution][c09-solution] |       🟢       |  390  |
 | [✅] #10  | 🎄 Crea tu propio árbol de navidad    | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |  280  |
-| [✅] #11  | 📖 Los elfos estudiosos              | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |  180  |
-| [✅] #12  | 📸 ¿Es una copia válida?             | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  270  |
-| [✅] #13  | ⌚️ Calculando el tiempo              | [Show][c13-readme]  | [Solution][c13-solution] |       🟢       |  290  |
-| [✅] #14  | 🚨 Evita la alarma                   | [Show][c14-readme]  | [Solution][c14-solution] |       🟠       |  360   |
-| [-] #15  |                                        |                     |                          |                 |       |
-| [-] #16  |                                        |                     |                          |                 |       |
-| [-] #17  |                                        |                     |                          |                 |       |
-| [-] #18  |                                        |                     |                          |                 |       |
-| [-] #19  |                                        |                     |                          |                 |       |
-| [-] #20  |                                        |                     |                          |                 |       |
-| [-] #21  |                                        |                     |                          |                 |       |
-| [-] #22  |                                        |                     |                          |                 |       |
-| [-] #23  |                                        |                     |                          |                 |       |
-| [-] #24  |                                        |                     |                          |                 |       |
-| [-] #25  |                                        |                     |                          |                 |       |
+| [✅] #11  | 📖 Los elfos estudiosos               | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |  180  |
+| [✅] #12  | 📸 ¿Es una copia válida?              | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  270  |
+| [✅] #13  | ⌚️ Calculando el tiempo               | [Show][c13-readme]  | [Solution][c13-solution] |       🟢       |  290  |
+| [✅] #14  | 🚨 Evita la alarma                    | [Show][c14-readme]  | [Solution][c14-solution] |       🟠       |  360   |
+| [✅] #15  | ↔️ Robot autónomo                      | [Show][c15-readme]  | [Solution][c15-solution] |       🟠       |  290   |
+| [✅] #16  | ❌ Despliegue en viernes              | [Show][c16-readme]  | [Solution][c16-solution] |       🟢        |   190  |
+| [✅] #17  | 🛷 Optimizando el alquiler           | [Show][c17-readme]  | [Solution][c17-solution] |       🟢        |  160  |
+| [✅] #18  | 🔢 El reloj digital                  | [Show][c18-readme]  | [Solution][c18-solution] |       🔴        |   90  |
+| [✅] #19  | 💣 Enfrenta el sabotaje              | [Show][c19-readme]  | [Solution][c19-solution] |       🟠        |  160  |
+| [✅] #20  | 🏋️‍♂️ Distribuye el peso                | [Show][c20-readme]  | [Solution][c20-solution] |       🔴        |  190  |
+| [✅] #21  | 🪐 Mensaje binario                   | [Show][c21-readme]  | [Solution][c21-solution] |       🟠        |  230   |
+| [✅] #22  | 🚂 Lenguaje de programación          | [Show][c22-readme]  | [Solution][c22-solution] |       🟢        |  170   |
+| [✅] #23  | 🍽️ La comida de Navidad              | [Show][c23-readme]  | [Solution][c23-solution] |       🟢        |  140   |
+| [✅] #24  | 🪜 Brincos en la escalera             | [Show][c24-readme]  | [Solution][c24-solution] |       🟠         |  30   |
+| [✅] #25  | 🗺️ Calculando distancias             | [Show][c25-readme]  | [Solution][c25-solution] |       🟠        |  290   |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
