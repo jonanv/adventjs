@@ -67,6 +67,28 @@
 [c13-solution]: ./challenge13/index.js
 [c14-readme]: ./challenge14/README.md
 [c14-solution]: ./challenge14/index.js
+[c15-readme]: ./challenge15/README.md
+[c15-solution]: ./challenge15/index.js
+[c16-readme]: ./challenge16/README.md
+[c16-solution]: ./challenge16/index.js
+[c17-readme]: ./challenge17/README.md
+[c17-solution]: ./challenge17/index.js
+[c18-readme]: ./challenge18/README.md
+[c18-solution]: ./challenge18/index.js
+[c19-readme]: ./challenge19/README.md
+[c19-solution]: ./challenge19/index.js
+[c20-readme]: ./challenge20/README.md
+[c20-solution]: ./challenge20/index.js
+[c21-readme]: ./challenge21/README.md
+[c21-solution]: ./challenge21/index.js
+[c22-readme]: ./challenge22/README.md
+[c22-solution]: ./challenge22/index.js
+[c23-readme]: ./challenge23/README.md
+[c23-solution]: ./challenge23/index.js
+[c24-readme]: ./challenge24/README.md
+[c24-solution]: ./challenge24/index.js
+[c25-readme]: ./challenge25/README.md
+[c25-solution]: ./challenge25/index.js
 </details>
 
 
