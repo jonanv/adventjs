@@ -42,6 +42,8 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 | [-] 2021   | [README][ajs2021-readme]  | Advent JS 2021       |
 | [✔] 2022   | [README][ajs2022-readme]  | Advent JS 2022       |
 | [✔] 2023   | [README][ajs2023-readme]  | Advent JS 2023       |
+| [-] 2024   | [README][ajs2024-readme]  | Advent JS 2024       |
+| [-] 2025   | [README][ajs2025-readme]  | Advent JS 2025       |
 
 
 
@@ -73,6 +75,6 @@ npm run test # Para correr todos los test de todos los retos
 npm run test:yyyy # Para correr todos los test de todos los retos de un año es especifico, por ejemplo
 npm run test:2022 # Para correr todos los test de todos los retos del año 2022
 
-npm run test:n:yyyy # n siendo el numero del reto y yyyy el año, por ejemplo
-npm run test:1:2022 # Correra el test del reto 1 del año 2022
+npm run test:yyyy:n     # n siendo el numero del reto y yyyy el año, por ejemplo
+npm run test:2022:01    # Correra el test del reto 1 del año 2022
 ```
