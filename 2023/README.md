@@ -1,8 +1,8 @@
-# **🎁🧦 AdventJS**
+# **🎁🧦 AdventJS 2023**
 ## **25 días de retos de programación con sorteo**
 
 
-![AdventJs2023](https://imgur.com/V5JKvkv.png)
+![AdventJs2023](../imgs/adventjs-2023.png)
 
 ## **🎮 Retos realizados**
 
@@ -112,8 +112,8 @@ Si quieres probar tus propios scripts, tienes dos opciones:
 npm run test # Para correr todos los test de todos los retos
 
 npm run test:yyyy # Para correr todos los test de todos los retos de un año es especifico, por ejemplo
-npm run test:2022 # Para correr todos los test de todos los retos del año 2022
+npm run test:2023 # Para correr todos los test de todos los retos del año 2023
 
-npm run test:n:yyyy # n siendo el numero del reto y yyyy el año, por ejemplo
-npm run test:1:2022 # Correra el test del reto 1 del año 2022
+npm run test:yyyy:n # n siendo el numero del reto y yyyy el año, por ejemplo
+npm run test:2023:01 # Correra el test del reto 1 del año 2023
 ```
