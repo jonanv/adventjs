@@ -2,7 +2,7 @@
 ## **24 días 24 retos de programación**
 
 
-![AdventJs2022](https://imgur.com/3UnaWEm.png)
+![AdventJs2022](../imgs/adventjs-2022.png)
 
 ## **🎮 Retos realizados**
 
@@ -111,6 +111,6 @@ npm run test # Para correr todos los test de todos los retos
 npm run test:yyyy # Para correr todos los test de todos los retos de un año es especifico, por ejemplo
 npm run test:2022 # Para correr todos los test de todos los retos del año 2022
 
-npm run test:n:yyyy # n siendo el numero del reto y yyyy el año, por ejemplo
-npm run test:1:2022 # Correra el test del reto 1 del año 2022
+npm run test:yyyy:n # n siendo el numero del reto y yyyy el año, por ejemplo
+npm run test:2022:01 # Correra el test del reto 1 del año 2022
 ```
