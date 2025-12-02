@@ -1,7 +1,7 @@
 const filterGifts = require('./index.js');
 
 describe('Reto #1: 🎁 Filtrar los regalos defectuosos', () => {
-    test('Test #01 - Return a array', () => {
+    test('Test #01 - Return type', () => {
         expect(
             Array.isArray(
                 filterGifts(['car', 'doll#arm', 'ball', '#train'])
