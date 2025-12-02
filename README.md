@@ -39,17 +39,12 @@ Además te puedes unir a su comunidad en **[Discord](https://t.co/XruHkD62j3).**
 
 | Year       | Readme                    | Description          |
 | :--------: | :-----------------------: | :------------------- |
-| [-] 2021   | [README][ajs2021-readme]  | Advent JS 2021       |
-| [✔] 2022   | [README][ajs2022-readme]  | Advent JS 2022       |
-| [✔] 2023   | [README][ajs2023-readme]  | Advent JS 2023       |
-| [-] 2024   | [README][ajs2024-readme]  | Advent JS 2024       |
-| [-] 2025   | [README][ajs2025-readme]  | Advent JS 2025       |
+| [-] 2021   | [README](./2021/README.md)  | Advent JS 2021       |
+| [✔] 2022   | [README](./2022/README.md)  | Advent JS 2022       |
+| [✔] 2023   | [README](./2023/README.md)  | Advent JS 2023       |
+| [-] 2024   | [README](./2024/README.md)  | Advent JS 2024       |
+| [-] 2025   | [README](./2025/README.md)  | Advent JS 2025       |
 
-
-
-[ajs2021-readme]: ./2021/README.md
-[ajs2022-readme]: ./2022/README.md
-[ajs2023-readme]: ./2023/README.md
 </details>
 
 
