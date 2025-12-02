@@ -49,23 +49,23 @@
 Instala Jest para las pruebas con:
 
 ```bash
-npm install
+pnpm install
 ```
 
 ## **🧪 Tests**
 
-Puedes comprobar los retos usando en tu terminal el comando `npm run jest`.
+Puedes comprobar los retos usando en tu terminal el comando `pnpm run jest`.
 Si quieres probar tus propios scripts, tienes dos opciones:
 
 1. Cambiar de nombre el archivo `index.js` y crear tu propio `index.js`
 2. Comentar la función en el archivo `index.js` y crear tu propia función
 
 ```bash
-npm run test # Para correr todos los test de todos los retos
+pnpm run test # Para correr todos los test de todos los retos
 
-npm run test:yyyy # Para correr todos los test de todos los retos de un año es especifico, por ejemplo
-npm run test:2021 # Para correr todos los test de todos los retos del año 2021
+pnpm run test:yyyy # Para correr todos los test de todos los retos de un año es especifico, por ejemplo
+pnpm run test:2021 # Para correr todos los test de todos los retos del año 2021
 
-npm run test:yyyy:n # n siendo el numero del reto y yyyy el año, por ejemplo
-npm run test:2021:01 # Correra el test del reto 1 del año 2021
+pnpm run test:yyyy:n # n siendo el numero del reto y yyyy el año, por ejemplo
+pnpm run test:2021:01 # Correra el test del reto 1 del año 2021
 ```
