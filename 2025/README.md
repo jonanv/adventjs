@@ -13,7 +13,7 @@
 | --------: | :-----------------------------------: | :-----------------: | :----------------------: | :------------: | :---: |
 | [✅] #01  | 🎁 Filtrar los regalos defectuosos    | [Show][c01-readme]  | [Solution][c01-solution] |       🟢       |  8  |
 | [✅] #02  | 🏭 Fabrica los juguetes               | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  8  |
-| [✅] #03  |    | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  -  |
+| [✅] #03  | Reto #3: 👶 Ayuda al becario          | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  8  |
 | [✅] #04  |    | [Show][c04-readme]  | [Solution][c04-solution] |       🟠       |  -  |
 | [✅] #05  |    | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |  -  |
 | [✅] #06  |    | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |  -  |
