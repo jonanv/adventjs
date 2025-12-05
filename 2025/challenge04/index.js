@@ -2,6 +2,7 @@
  * @param {string} code - The code to decipher
  * @returns {string} The deciphered PIN
  */
+// Score: 8
 function decodeSantaPin(code) {
     const blocks = code.match(/\[.*?\]/g);
     if (!blocks) return null;
