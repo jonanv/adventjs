@@ -21,4 +21,4 @@ function matchGloves(gloves) {
     return result;
 }
 
-module.export = matchGloves;
+module.exports = matchGloves;

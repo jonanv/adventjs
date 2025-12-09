@@ -21,4 +21,4 @@ function findUniqueToy(toy) {
     return "";
 }
 
-module.export = findUniqueToy;
+module.exports = findUniqueToy;

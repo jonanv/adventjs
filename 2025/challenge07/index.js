@@ -29,4 +29,4 @@ function drawTree(height, ornament, frequency) {
     return result.join("\n")
 }
 
-module.export = drawTree;
+module.exports = drawTree;
