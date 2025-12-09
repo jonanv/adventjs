@@ -20,3 +20,5 @@ function findUniqueToy(toy) {
 
     return "";
 }
+
+module.export = findUniqueToy;
