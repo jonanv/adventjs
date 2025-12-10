@@ -21,7 +21,6 @@ function decodeSantaPin(code) {
 
         // Extraer número y operaciones
         const match = block.match(/\[(\d)([-+]*)\]/);
-        console.log(match);
         if (!match) return null;
 
         let num = Number(match[1]);
