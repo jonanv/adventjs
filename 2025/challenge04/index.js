@@ -21,7 +21,6 @@ function decodeSantaPin(code) {
 
         // Extraer número y operaciones
         const match = block.match(/\[(\d)([-+]*)\]/);
-        console.log(match);
         if (!match) return null;
 
         let num = Number(match[1]);
@@ -39,5 +38,28 @@ function decodeSantaPin(code) {
     }
     return pin.length >= 4 ? pin.join('').slice(0, 4) : null;
 }
+
+// function decodeSantaPin(code) {
+//     // Code here
+//     let n;
+//     let ans = "";
+
+//     const op = {
+//         "+": () => n = (n + 1 + 10) % 10,
+//         "-": () => n = (n - 1 + 10) % 10,
+//         "<": () => n = +ans.at(-1),
+//         "]": () => ans += n,
+//     }
+
+//     Array.from(code)
+//         .forEach((e) => {
+//             if (Number.isInteger(+e))
+//                 n = +e;
+
+//             op[e]?.();
+//         });
+
+//     return ans.length < 4 ? null : ans;
+// }
 
 module.exports = decodeSantaPin;

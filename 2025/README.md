@@ -15,11 +15,11 @@
 | [✅] #02  | 🏭 Fabrica los juguetes               | [Show][c02-readme]  | [Solution][c02-solution] |       🟢       |  8  |
 | [✅] #03  | 👶 Ayuda al becario                   | [Show][c03-readme]  | [Solution][c03-solution] |       🟢       |  8  |
 | [✅] #04  | 🧮 Descifra el PIN de Santa           | [Show][c04-readme]  | [Solution][c04-solution] |       🟠       |  8  |
-| [✅] #05  |    | [Show][c05-readme]  | [Solution][c05-solution] |       🟠       |  -  |
-| [✅] #06  |    | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |  -  |
-| [✅] #07  |    | [Show][c07-readme]  | [Solution][c07-solution] |       🟢       |  -  |
-| [✅] #08  |    | [Show][c08-readme]  | [Solution][c08-solution] |       🟠       |  -  |
-| [✅] #09  |    | [Show][c09-readme]  | [Solution][c09-solution] |       🟢       |  -  |
+| [✅] #05  | ⏱️ La cuenta atrás para el despegue   | [Show][c05-readme]  | [Solution][c05-solution] |       🟢       |  8  |
+| [✅] #06  | 🧤 Emparejando guantes                | [Show][c06-readme]  | [Solution][c06-solution] |       🟢       |  8  |
+| [✅] #07  | 🎄 Montando el árbol                  | [Show][c07-readme]  | [Solution][c07-solution] |       🟢       |  8  |
+| [✅] #08  | 🎁 Encuentra el juguete único         | [Show][c08-readme]  | [Solution][c08-solution] |       🟢       |  8  |
+| [✅] #09  | 🦌 El reno robot aspirador           | [Show][c09-readme]  | [Solution][c09-solution] |       🔴       |  8  |
 | [✅] #10  |    | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |  -  |
 | [✅] #11  |    | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |  -  |
 | [✅] #12  |    | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  -  |
