@@ -20,7 +20,7 @@
 | [✅] #07  | 🎄 Montando el árbol                  | [Show][c07-readme]  | [Solution][c07-solution] |       🟢       |  8  |
 | [✅] #08  | 🎁 Encuentra el juguete único         | [Show][c08-readme]  | [Solution][c08-solution] |       🟢       |  8  |
 | [✅] #09  | 🦌 El reno robot aspirador           | [Show][c09-readme]  | [Solution][c09-solution] |       🔴       |  8  |
-| [✅] #10  |    | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |  -  |
+| [✅] #10  | 📨 Profundidad de la magia navideña  | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |  8  |
 | [✅] #11  |    | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |  -  |
 | [✅] #12  |    | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  -  |
 | [✅] #13  |    | [Show][c13-readme]  | [Solution][c13-solution] |       🟢       |  -  |
