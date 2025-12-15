@@ -21,7 +21,7 @@
 | [✅] #08  | 🎁 Encuentra el juguete único         | [Show][c08-readme]  | [Solution][c08-solution] |       🟢       |  8  |
 | [✅] #09  | 🦌 El reno robot aspirador           | [Show][c09-readme]  | [Solution][c09-solution] |       🔴       |  8  |
 | [✅] #10  | 📨 Profundidad de la magia navideña  | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |  8  |
-| [✅] #11  |    | [Show][c11-readme]  | [Solution][c11-solution] |       🟠       |  -  |
+| [✅] #11  | 📹 Regalos sin vigilancia            | [Show][c11-readme]  | [Solution][c11-solution] |       🟢       |  8  |
 | [✅] #12  |    | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  -  |
 | [✅] #13  |    | [Show][c13-readme]  | [Solution][c13-solution] |       🟢       |  -  |
 | [✅] #14  |    | [Show][c14-readme]  | [Solution][c14-solution] |       🟠       |  -  |
