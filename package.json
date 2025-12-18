@@ -74,6 +74,7 @@
 		"test:2025:11": "jest -i 2025/challenge11/challenge11.test.js",
 		"test:2025:12": "jest -i 2025/challenge12/challenge12.test.js",
 		"test:2025:13": "jest -i 2025/challenge13/challenge13.test.js",
+		"test:2025:14": "jest -i 2025/challenge14/challenge14.test.js",
 	},
 	"repository": {
 		"type": "git",
