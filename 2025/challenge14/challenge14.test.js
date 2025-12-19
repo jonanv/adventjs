@@ -1,5 +1,16 @@
 const findGiftPath = require("./");
 
+const workshop = {
+    storage: {
+        shelf: {
+            box1: 'train',
+            box2: 'switch'
+        },
+        box: 'car'
+    },
+    gift: 'doll'
+}
+
 describe('Reto #14: 🗃️ Encuentra el camino al regalo', () => {
     test('Test #1 - return type', () => {
         expect(
@@ -8,7 +19,7 @@ describe('Reto #14: 🗃️ Encuentra el camino al regalo', () => {
             )
         ).toStrictEqual(true);
     });
-    
+
     test('Test #2 - findGiftPath(workshop, "train")', () => {
         expect(
             findGiftPath(workshop, 'train')
