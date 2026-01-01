@@ -1,6 +1,6 @@
 # **Instrucciones**
 
-## **Reto #24: 🪞 Verifica si los árboles son espejos mágicos**
+## **Reto #25: 🪄 Ejecuta el lenguaje mágico**
 #### **Medio**
 
 ¡Ya hemos repartido todos los regalos! De vuelta al taller, ya comienzan los preparativos para el año que viene.
