@@ -22,20 +22,20 @@
 | [✅] #09  | 🦌 El reno robot aspirador           | [Show][c09-readme]  | [Solution][c09-solution] |       🔴       |  8  |
 | [✅] #10  | 📨 Profundidad de la magia navideña  | [Show][c10-readme]  | [Solution][c10-solution] |       🟢       |  8  |
 | [✅] #11  | 📹 Regalos sin vigilancia            | [Show][c11-readme]  | [Solution][c11-solution] |       🟢       |  8  |
-| [✅] #12  |    | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  -  |
-| [✅] #13  |    | [Show][c13-readme]  | [Solution][c13-solution] |       🟢       |  -  |
-| [✅] #14  |    | [Show][c14-readme]  | [Solution][c14-solution] |       🟠       |  -  |
-| [✅] #15  |    | [Show][c15-readme]  | [Solution][c15-solution] |       🟠       |  -  |
-| [✅] #16  |    | [Show][c16-readme]  | [Solution][c16-solution] |       🟢       |  -  |
-| [✅] #17  |    | [Show][c17-readme]  | [Solution][c17-solution] |       🟢       |  -  |
-| [✅] #18  |    | [Show][c18-readme]  | [Solution][c18-solution] |       🔴       |  -  |
-| [✅] #19  |    | [Show][c19-readme]  | [Solution][c19-solution] |       🟠       |  -  |
-| [✅] #20  |    | [Show][c20-readme]  | [Solution][c20-solution] |       🔴       |  -  |
-| [✅] #21  |    | [Show][c21-readme]  | [Solution][c21-solution] |       🟠       |  -  |
-| [✅] #22  |    | [Show][c22-readme]  | [Solution][c22-solution] |       🟢       |  -  |
-| [✅] #23  |    | [Show][c23-readme]  | [Solution][c23-solution] |       🟢       |  -  |
-| [✅] #24  |    | [Show][c24-readme]  | [Solution][c24-solution] |       🟠       |  -  |
-| [✅] #25  |    | [Show][c25-readme]  | [Solution][c25-solution] |       🟠       |  -  |
+| [✅] #12  | ⚔️ Batalla de elfos                  | [Show][c12-readme]  | [Solution][c12-solution] |       🟠       |  8  |
+| [✅] #13  | 🏭 La cadena de montaje              | [Show][c13-readme]  | [Solution][c13-solution] |       🟠       |  8  |
+| [✅] #14  | 🗃️ Encuentra el camino al regalo     | [Show][c14-readme]  | [Solution][c14-solution] |       🟢       |  8  |
+| [✅] #15  | ✏️ Dibujando tablas                  | [Show][c15-readme]  | [Solution][c15-solution] |       🟠       |  8  |
+| [✅] #16  | 🎁 Empaquetando regalos para Santa   | [Show][c16-readme]  | [Solution][c16-solution] |       🟢       |  8  |
+| [✅] #17  | 🎄 El panel de luces navideñas       | [Show][c17-readme]  | [Solution][c17-solution] |       🟢       |  8  |
+| [✅] #18  | 🎄 Luces en línea con diagonales     | [Show][c18-readme]  | [Solution][c18-solution] |       🟠       |  8  |
+| [✅] #19  | 🎄 El viaje secreto de Papá Noel     | [Show][c19-readme]  | [Solution][c19-solution] |       🟢       |  8  |
+| [✅] #20  | 🎁 El almacén vertical               | [Show][c20-readme]  | [Solution][c20-solution] |       🟢       |  8  |
+| [✅] #21  | 🤖 El robot de limpieza              | [Show][c21-readme]  | [Solution][c21-solution] |       🟠       |  8  |
+| [✅] #22  | 🎄 El laberinto del trineo           | [Show][c22-readme]  | [Solution][c22-solution] |       🔴       |  8  |
+| [✅] #23  | 🎁 Ruta de regalos                   | [Show][c23-readme]  | [Solution][c23-solution] |       🟠       |  8  |
+| [✅] #24  | 🪞 Verifica si los árboles son espejos mágicos | [Show][c24-readme]  | [Solution][c24-solution] |       🟠       |  8  |
+| [✅] #25  | 🪄 Ejecuta el lenguaje mágico         | [Show][c25-readme]  | [Solution][c25-solution] |       🟠       |  8  |
 
 [^1]: **Difficulty**: 🟢 Easy 🟠 Medium 🔴 Difficult 🟣 Very Difficult
 
